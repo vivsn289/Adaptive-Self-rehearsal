@@ -158,6 +158,34 @@ All benchmarks run via `lm-eval-harness`:
 
 ---
 
+## Results
+
+### Base vs Fine-Tuned: Per-Benchmark Accuracy
+
+![Comparison](figures/comparison.png)
+
+### Per-Task Delta (Accuracy Change in Percentage Points)
+
+![Delta Waterfall](figures/delta_waterfall.png)
+
+### Per-Task Forgetting Scores
+
+![Forgetting](figures/forgetting.png)
+
+### Forgetting by Capability Category
+
+![Category Forgetting](figures/category_forgetting.png)
+
+### MMLU Per-Subject: Top 15 Forgotten vs Top 15 Improved
+
+![MMLU Subject Forgetting](figures/mmlu_subject_forgetting.png)
+
+### Seed Consistency (Vanilla SFT, 3 Seeds)
+
+![Seed Consistency](figures/seed_consistency.png)
+
+---
+
 ## Resumability
 
 Every long-running script is designed to survive disconnects on the shared server:
