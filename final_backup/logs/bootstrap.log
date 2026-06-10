@@ -1,0 +1,127 @@
+Loading mistralai/Mistral-7B-v0.1...
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights:   0%|          | 1/291 [00:00<00:33,  8.65it/s]Loading weights:   2%|▏         | 6/291 [00:00<00:09, 31.42it/s]Loading weights:   4%|▍         | 13/291 [00:00<00:06, 46.05it/s]Loading weights:   8%|▊         | 22/291 [00:00<00:04, 61.96it/s]Loading weights:  11%|█         | 31/291 [00:00<00:04, 64.58it/s]Loading weights:  14%|█▎        | 40/291 [00:00<00:04, 62.48it/s]Loading weights:  17%|█▋        | 49/291 [00:00<00:03, 68.45it/s]Loading weights:  20%|█▉        | 58/291 [00:00<00:03, 67.35it/s]Loading weights:  22%|██▏       | 65/291 [00:01<00:03, 67.43it/s]Loading weights:  25%|██▍       | 72/291 [00:01<00:03, 67.28it/s]Loading weights:  27%|██▋       | 79/291 [00:01<00:03, 61.50it/s]Loading weights:  30%|██▉       | 87/291 [00:01<00:03, 63.91it/s]Loading weights:  32%|███▏      | 94/291 [00:01<00:03, 65.04it/s]Loading weights:  35%|███▌      | 103/291 [00:01<00:02, 64.46it/s]Loading weights:  38%|███▊      | 112/291 [00:01<00:02, 64.76it/s]Loading weights:  42%|████▏     | 121/291 [00:01<00:02, 67.28it/s]Loading weights:  45%|████▍     | 130/291 [00:02<00:02, 65.44it/s]Loading weights:  48%|████▊     | 139/291 [00:02<00:02, 57.34it/s]Loading weights:  52%|█████▏    | 150/291 [00:02<00:02, 66.00it/s]Loading weights:  54%|█████▍    | 158/291 [00:02<00:02, 64.82it/s]Loading weights:  57%|█████▋    | 167/291 [00:02<00:01, 68.03it/s]Loading weights:  60%|██████    | 175/291 [00:02<00:01, 68.84it/s]Loading weights:  63%|██████▎   | 184/291 [00:02<00:01, 61.29it/s]Loading weights:  67%|██████▋   | 194/291 [00:03<00:01, 70.14it/s]Loading weights:  69%|██████▉   | 202/291 [00:03<00:01, 69.16it/s]Loading weights:  73%|███████▎  | 211/291 [00:03<00:01, 70.08it/s]Loading weights:  76%|███████▌  | 220/291 [00:03<00:01, 68.37it/s]Loading weights:  79%|███████▊  | 229/291 [00:03<00:00, 65.28it/s]Loading weights:  82%|████████▏ | 238/291 [00:03<00:00, 64.30it/s]Loading weights:  85%|████████▍ | 247/291 [00:03<00:00, 64.48it/s]Loading weights:  88%|████████▊ | 256/291 [00:03<00:00, 65.20it/s]Loading weights:  91%|█████████ | 265/291 [00:04<00:00, 62.90it/s]Loading weights:  94%|█████████▍| 274/291 [00:04<00:00, 63.34it/s]Loading weights:  97%|█████████▋| 283/291 [00:04<00:00, 64.03it/s]Loading weights: 100%|██████████| 291/291 [00:04<00:00, 64.77it/s]
+Model loaded.
+Loading seed tasks...
+Pool size: 175 (175 seed + 0 generated)
+
+============================================================
+Target: 10000 | Current: 0
+============================================================
+
+[transformers] The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+[Attempt 50] Generated: 26/10000 | Rate: 111/hr | ETA: 90.2hr
+[Attempt 100] Generated: 54/10000 | Rate: 111/hr | ETA: 89.2hr
+[Attempt 150] Generated: 92/10000 | Rate: 125/hr | ETA: 79.2hr
+  >>> 100 instructions (0.8hr)
+  [Checkpoint saved: 100]
+Loading mistralai/Mistral-7B-v0.1...
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/291 [00:00<?, ?it/s]Loading weights:   0%|          | 1/291 [00:00<00:31,  9.27it/s]Loading weights:   2%|▏         | 6/291 [00:00<00:08, 32.44it/s]Loading weights:   5%|▍         | 14/291 [00:00<00:05, 53.23it/s]Loading weights:   8%|▊         | 22/291 [00:00<00:04, 57.50it/s]Loading weights:  11%|█         | 31/291 [00:00<00:03, 67.93it/s]Loading weights:  14%|█▎        | 40/291 [00:00<00:03, 66.21it/s]Loading weights:  17%|█▋        | 49/291 [00:00<00:03, 65.84it/s]Loading weights:  20%|█▉        | 58/291 [00:00<00:03, 61.32it/s]Loading weights:  23%|██▎       | 67/291 [00:01<00:03, 58.74it/s]Loading weights:  26%|██▋       | 77/291 [00:01<00:03, 65.30it/s]Loading weights:  30%|██▉       | 86/291 [00:01<00:03, 68.04it/s]Loading weights:  32%|███▏      | 94/291 [00:01<00:02, 69.72it/s]Loading weights:  35%|███▌      | 103/291 [00:01<00:02, 71.05it/s]Loading weights:  38%|███▊      | 112/291 [00:01<00:02, 70.13it/s]Loading weights:  42%|████▏     | 121/291 [00:01<00:02, 62.99it/s]Loading weights:  45%|████▌     | 131/291 [00:02<00:02, 68.04it/s]Loading weights:  48%|████▊     | 139/291 [00:02<00:02, 68.46it/s]Loading weights:  51%|█████     | 148/291 [00:02<00:02, 68.68it/s]Loading weights:  54%|█████▍    | 157/291 [00:02<00:01, 68.22it/s]Loading weights:  57%|█████▋    | 166/291 [00:02<00:01, 67.68it/s]Loading weights:  60%|██████    | 175/291 [00:02<00:01, 67.36it/s]Loading weights:  63%|██████▎   | 184/291 [00:02<00:01, 67.30it/s]Loading weights:  66%|██████▋   | 193/291 [00:03<00:01, 59.75it/s]Loading weights:  70%|██████▉   | 203/291 [00:03<00:01, 66.95it/s]Loading weights:  73%|███████▎  | 211/291 [00:03<00:01, 69.69it/s]Loading weights:  76%|███████▌  | 220/291 [00:03<00:01, 66.85it/s]Loading weights:  79%|███████▊  | 229/291 [00:03<00:00, 66.31it/s]Loading weights:  82%|████████▏ | 238/291 [00:03<00:00, 64.80it/s]Loading weights:  85%|████████▍ | 247/291 [00:03<00:00, 61.95it/s]Loading weights:  88%|████████▊ | 256/291 [00:03<00:00, 61.28it/s]Loading weights:  91%|█████████ | 265/291 [00:04<00:00, 52.78it/s]Loading weights:  95%|█████████▍| 275/291 [00:04<00:00, 58.31it/s]Loading weights:  98%|█████████▊| 284/291 [00:04<00:00, 59.58it/s]Loading weights: 100%|██████████| 291/291 [00:04<00:00, 64.73it/s]
+Model loaded.
+Loading seed tasks...
+RESUMING: Loaded 100 previously generated instructions.
+Pool size: 275 (175 seed + 100 generated)
+
+============================================================
+Target: 2000 | Current: 100
+============================================================
+
+[transformers] The following generation flags are not valid and may be ignored: ['temperature']. Set `TRANSFORMERS_VERBOSITY=info` for more details.
+[Attempt 50] Generated: 137/2000 | Rate: 148/hr | ETA: 12.6hr
+[Attempt 100] Generated: 153/2000 | Rate: 113/hr | ETA: 16.3hr
+[Attempt 150] Generated: 166/2000 | Rate: 100/hr | ETA: 18.4hr
+[Attempt 200] Generated: 185/2000 | Rate: 98/hr | ETA: 18.6hr
+  >>> 200 instructions (1.0hr)
+  [Checkpoint saved: 200]
+[Attempt 250] Generated: 206/2000 | Rate: 96/hr | ETA: 18.6hr
+[Attempt 300] Generated: 229/2000 | Rate: 97/hr | ETA: 18.3hr
+[Attempt 350] Generated: 248/2000 | Rate: 96/hr | ETA: 18.2hr
+[Attempt 400] Generated: 261/2000 | Rate: 93/hr | ETA: 18.8hr
+[Attempt 450] Generated: 296/2000 | Rate: 99/hr | ETA: 17.3hr
+  >>> 300 instructions (2.0hr)
+  [Checkpoint saved: 300]
+[Attempt 500] Generated: 319/2000 | Rate: 99/hr | ETA: 16.9hr
+[Attempt 550] Generated: 344/2000 | Rate: 101/hr | ETA: 16.4hr
+[Attempt 600] Generated: 364/2000 | Rate: 100/hr | ETA: 16.4hr
+[Attempt 650] Generated: 397/2000 | Rate: 102/hr | ETA: 15.7hr
+  >>> 400 instructions (2.9hr)
+  [Checkpoint saved: 400]
+[Attempt 700] Generated: 428/2000 | Rate: 103/hr | ETA: 15.2hr
+[Attempt 750] Generated: 465/2000 | Rate: 107/hr | ETA: 14.4hr
+  >>> 500 instructions (3.7hr)
+  [Checkpoint saved: 500]
+[Attempt 800] Generated: 500/2000 | Rate: 109/hr | ETA: 13.7hr
+[Attempt 850] Generated: 529/2000 | Rate: 110/hr | ETA: 13.4hr
+[Attempt 900] Generated: 565/2000 | Rate: 112/hr | ETA: 12.8hr
+  >>> 600 instructions (4.4hr)
+  [Checkpoint saved: 600]
+[Attempt 950] Generated: 606/2000 | Rate: 115/hr | ETA: 12.1hr
+[Attempt 1000] Generated: 655/2000 | Rate: 119/hr | ETA: 11.3hr
+[Attempt 1050] Generated: 693/2000 | Rate: 120/hr | ETA: 10.9hr
+  >>> 700 instructions (5.0hr)
+  [Checkpoint saved: 700]
+[Attempt 1100] Generated: 741/2000 | Rate: 123/hr | ETA: 10.3hr
+[Attempt 1150] Generated: 775/2000 | Rate: 124/hr | ETA: 9.9hr
+  >>> 800 instructions (5.6hr)
+  [Checkpoint saved: 800]
+[Attempt 1200] Generated: 820/2000 | Rate: 126/hr | ETA: 9.4hr
+[Attempt 1250] Generated: 869/2000 | Rate: 128/hr | ETA: 8.8hr
+  >>> 900 instructions (6.2hr)
+  [Checkpoint saved: 900]
+[Attempt 1300] Generated: 915/2000 | Rate: 130/hr | ETA: 8.3hr
+[Attempt 1350] Generated: 957/2000 | Rate: 131/hr | ETA: 7.9hr
+  >>> 1000 instructions (6.8hr)
+  [Checkpoint saved: 1000]
+[Attempt 1400] Generated: 1001/2000 | Rate: 133/hr | ETA: 7.5hr
+[Attempt 1450] Generated: 1037/2000 | Rate: 133/hr | ETA: 7.2hr
+[Attempt 1500] Generated: 1084/2000 | Rate: 135/hr | ETA: 6.8hr
+  >>> 1100 instructions (7.4hr)
+  [Checkpoint saved: 1100]
+[Attempt 1550] Generated: 1128/2000 | Rate: 136/hr | ETA: 6.4hr
+[Attempt 1600] Generated: 1174/2000 | Rate: 137/hr | ETA: 6.0hr
+  >>> 1200 instructions (7.9hr)
+  [Checkpoint saved: 1200]
+[Attempt 1650] Generated: 1230/2000 | Rate: 138/hr | ETA: 5.6hr
+[Attempt 1700] Generated: 1287/2000 | Rate: 140/hr | ETA: 5.1hr
+  >>> 1300 instructions (8.5hr)
+  [Checkpoint saved: 1300]
+[Attempt 1750] Generated: 1339/2000 | Rate: 142/hr | ETA: 4.7hr
+[Attempt 1800] Generated: 1384/2000 | Rate: 143/hr | ETA: 4.3hr
+  >>> 1400 instructions (9.1hr)
+  [Checkpoint saved: 1400]
+[Attempt 1850] Generated: 1433/2000 | Rate: 144/hr | ETA: 3.9hr
+[Attempt 1900] Generated: 1475/2000 | Rate: 144/hr | ETA: 3.6hr
+  >>> 1500 instructions (9.7hr)
+  [Checkpoint saved: 1500]
+[Attempt 1950] Generated: 1521/2000 | Rate: 145/hr | ETA: 3.3hr
+[Attempt 2000] Generated: 1566/2000 | Rate: 145/hr | ETA: 3.0hr
+  >>> 1600 instructions (10.3hr)
+  [Checkpoint saved: 1600]
+[Attempt 2050] Generated: 1618/2000 | Rate: 146/hr | ETA: 2.6hr
+[Attempt 2100] Generated: 1662/2000 | Rate: 147/hr | ETA: 2.3hr
+  >>> 1700 instructions (10.8hr)
+  [Checkpoint saved: 1700]
+[Attempt 2150] Generated: 1716/2000 | Rate: 148/hr | ETA: 1.9hr
+[Attempt 2200] Generated: 1756/2000 | Rate: 148/hr | ETA: 1.6hr
+  >>> 1800 instructions (11.4hr)
+  [Checkpoint saved: 1800]
+[Attempt 2250] Generated: 1806/2000 | Rate: 149/hr | ETA: 1.3hr
+[Attempt 2300] Generated: 1863/2000 | Rate: 150/hr | ETA: 0.9hr
+  >>> 1900 instructions (12.0hr)
+  [Checkpoint saved: 1900]
+[Attempt 2350] Generated: 1907/2000 | Rate: 150/hr | ETA: 0.6hr
+[Attempt 2400] Generated: 1953/2000 | Rate: 151/hr | ETA: 0.3hr
+  >>> 2000 instructions (12.5hr)
+  [Checkpoint saved: 2000]
+
+============================================================
+DONE. 2000 instructions. 12.5hr this session.
+============================================================
+{
+  "total_generated": 2000,
+  "classification_tasks": 348,
+  "non_classification_tasks": 1652,
+  "total_attempts": 2440,
+  "session_time_hours": 12.5
+}

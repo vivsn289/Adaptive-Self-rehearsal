@@ -1,0 +1,132 @@
+[
+  {
+    "task": "arc_challenge",
+    "base": 47.27,
+    "vanilla_mean": 49.830000000000005,
+    "vanilla_se": 0.47595517996270903,
+    "adaptive_mean": 49.235,
+    "adaptive_se": 0.25500000000000256,
+    "diff_mean": -0.8950000000000031,
+    "diff_se": 0.384999999999998
+  },
+  {
+    "task": "arc_easy",
+    "base": 73.11,
+    "vanilla_mean": 78.43666666666667,
+    "vanilla_se": 0.09279607271383608,
+    "adaptive_mean": 78.22,
+    "adaptive_se": 0.3200000000000003,
+    "diff_mean": -0.2499999999999929,
+    "diff_se": 0.4700000000000059
+  },
+  {
+    "task": "boolq",
+    "base": 77.25,
+    "vanilla_mean": 80.05,
+    "vanilla_se": 0.27537852736430585,
+    "adaptive_mean": 79.035,
+    "adaptive_se": 0.16499999999999912,
+    "diff_mean": -0.7649999999999935,
+    "diff_se": 0.36500000000000193
+  },
+  {
+    "task": "copa",
+    "base": 85.0,
+    "vanilla_mean": 80.0,
+    "vanilla_se": 0.5773502691896258,
+    "adaptive_mean": 79.5,
+    "adaptive_se": 0.5,
+    "diff_mean": 0.0,
+    "diff_se": 0.0
+  },
+  {
+    "task": "gsm8k",
+    "base": 71.04,
+    "vanilla_mean": 67.67999999999999,
+    "vanilla_se": 0.5277625728803962,
+    "adaptive_mean": 67.35000000000001,
+    "adaptive_se": 0.39576929306520636,
+    "diff_mean": -0.330000000000003,
+    "diff_se": 0.747952761431721
+  },
+  {
+    "task": "hellaswag",
+    "base": 73.54,
+    "vanilla_mean": 72.74333333333333,
+    "vanilla_se": 0.03333333333333618,
+    "adaptive_mean": 72.7,
+    "adaptive_se": 0.09000000000000341,
+    "diff_mean": -0.05999999999999517,
+    "diff_se": 0.14000000000000765
+  },
+  {
+    "task": "lambada_openai",
+    "base": 67.15,
+    "vanilla_mean": 64.74333333333334,
+    "vanilla_se": 0.07881060278357832,
+    "adaptive_mean": 64.97,
+    "adaptive_se": 0.0,
+    "diff_mean": 0.2149999999999963,
+    "diff_se": 0.134999999999998
+  },
+  {
+    "task": "mmlu",
+    "base": 65.18,
+    "vanilla_mean": 64.26333333333334,
+    "vanilla_se": 0.06839428176227916,
+    "adaptive_mean": 64.03999999999999,
+    "adaptive_se": 0.00999999999999801,
+    "diff_mean": -0.15500000000000114,
+    "diff_se": 0.015000000000000567
+  },
+  {
+    "task": "openbookqa",
+    "base": 42.0,
+    "vanilla_mean": 42.866666666666674,
+    "vanilla_se": 0.35276684147527754,
+    "adaptive_mean": 42.6,
+    "adaptive_se": 0.0,
+    "diff_mean": -0.1999999999999993,
+    "diff_se": 0.5999999999999979
+  },
+  {
+    "task": "piqa",
+    "base": 78.89,
+    "vanilla_mean": 77.22333333333334,
+    "vanilla_se": 0.07333333333333296,
+    "adaptive_mean": 78.35,
+    "adaptive_se": 0.0,
+    "diff_mean": 1.1999999999999886,
+    "diff_se": 0.0
+  },
+  {
+    "task": "rte",
+    "base": 75.45,
+    "vanilla_mean": 83.27333333333334,
+    "vanilla_se": 1.9378453097304869,
+    "adaptive_mean": 81.59,
+    "adaptive_se": 0.7199999999999989,
+    "diff_mean": -0.5399999999999991,
+    "diff_se": 3.4299999999999993
+  },
+  {
+    "task": "triviaqa",
+    "base": 39.9,
+    "vanilla_mean": 40.31666666666667,
+    "vanilla_se": 0.27436796055257096,
+    "adaptive_mean": 39.51666666666667,
+    "adaptive_se": 0.5433946795633714,
+    "diff_mean": -0.7999999999999995,
+    "diff_se": 0.3464101615137763
+  },
+  {
+    "task": "winogrande",
+    "base": 68.43,
+    "vanilla_mean": 69.35,
+    "vanilla_se": 0.1300000000000002,
+    "adaptive_mean": 69.06,
+    "adaptive_se": 0.1599999999999966,
+    "diff_mean": -0.3549999999999969,
+    "diff_se": 0.3549999999999969
+  }
+]

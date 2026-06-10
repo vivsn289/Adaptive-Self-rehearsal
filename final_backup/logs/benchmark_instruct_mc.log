@@ -1,0 +1,87 @@
+2026-06-03:00:00:04 INFO     [_cli.run:388] Selected Tasks: ['arc_challenge', 'arc_easy', 'hellaswag', 'boolq', 'mmlu', 'winogrande', 'piqa', 'openbookqa', 'copa', 'rte', 'lambada_openai']
+2026-06-03:00:00:05 INFO     [evaluator:214] Setting random seed to 0 | Setting numpy seed to 1234 | Setting torch manual seed to 1234 | Setting fewshot manual seed to 1234
+2026-06-03:00:00:05 INFO     [evaluator:239] Initializing hf model, with arguments: {'pretrained': './qwen-sft-seed2025-ep4-adaptive', 'dtype': 'float16'}
+2026-06-03:00:00:07 INFO     [models.huggingface:286] Using device 'cuda:0'
+2026-06-03:00:00:08 INFO     [models.huggingface:579] Model parallel was set to False, max memory was not set, and device map was set to {'': 'cuda:0'}
+Loading weights:   0%|          | 0/434 [00:00<?, ?it/s]Loading weights:   0%|          | 1/434 [00:00<00:44,  9.78it/s]Loading weights:   4%|▍         | 17/434 [00:00<00:04, 94.65it/s]Loading weights:   9%|▉         | 40/434 [00:00<00:02, 142.51it/s]Loading weights:  15%|█▍        | 64/434 [00:00<00:02, 170.53it/s]Loading weights:  20%|██        | 88/434 [00:00<00:01, 189.93it/s]Loading weights:  26%|██▌       | 112/434 [00:00<00:01, 199.32it/s]Loading weights:  31%|███▏      | 136/434 [00:00<00:01, 193.99it/s]Loading weights:  37%|███▋      | 161/434 [00:00<00:01, 202.77it/s]Loading weights:  42%|████▏     | 184/434 [00:01<00:01, 190.75it/s]Loading weights:  48%|████▊     | 208/434 [00:01<00:01, 196.17it/s]Loading weights:  53%|█████▎    | 231/434 [00:01<00:01, 197.24it/s]Loading weights:  58%|█████▊    | 251/434 [00:01<00:00, 197.64it/s]Loading weights:  63%|██████▎   | 273/434 [00:01<00:00, 203.22it/s]Loading weights:  68%|██████▊   | 294/434 [00:01<00:00, 202.60it/s]Loading weights:  73%|███████▎  | 316/434 [00:01<00:00, 199.68it/s]Loading weights:  78%|███████▊  | 339/434 [00:01<00:00, 206.33it/s]Loading weights:  83%|████████▎ | 360/434 [00:01<00:00, 201.11it/s]Loading weights:  88%|████████▊ | 381/434 [00:02<00:00, 203.00it/s]Loading weights:  93%|█████████▎| 402/434 [00:02<00:00, 204.75it/s]Loading weights:  98%|█████████▊| 425/434 [00:02<00:00, 206.87it/s]Loading weights: 100%|██████████| 434/434 [00:02<00:00, 195.75it/s]
+2026-06-03:00:00:21 WARNING  [api.task:734] [Task: boolq] metric acc is defined, but aggregation is not. using default aggregation=mean
+2026-06-03:00:00:21 WARNING  [api.task:746] [Task: boolq] metric acc is defined, but higher_is_better is not. using default higher_is_better=True
+Traceback (most recent call last):
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 761, in hf_raise_for_status
+    response.raise_for_status()
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/httpx/_models.py", line 829, in raise_for_status
+    raise HTTPStatusError(message, request=request, response=self)
+httpx.HTTPStatusError: Server error '504 Gateway Time-out' for url 'https://huggingface.co/api/datasets/cais/mmlu/tree/c30699e8356da336a370243923dbaf21066bb9fe/high_school_mathematics?recursive=true&expand=false'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/llm/forgetting_experiment/env/bin/lm_eval", line 6, in <module>
+    sys.exit(cli_evaluate())
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/__main__.py", line 10, in cli_evaluate
+    parser.execute(args)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/_cli/harness.py", line 60, in execute
+    args.func(args)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/_cli/run.py", line 391, in _execute
+    results = simple_evaluate(
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/utils.py", line 575, in _wrapper
+    return fn(*args, **kwargs)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/evaluator.py", line 302, in simple_evaluate
+    loaded = task_manager.load(tasks)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/tasks/manager.py", line 208, in load
+    obj = self._load_spec(spec) if not isinstance(spec, (Task, Group)) else spec  # type:ignore[invalid-argument-type]
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/tasks/manager.py", line 154, in _load_spec
+    return self._factory.build(
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/tasks/_factory.py", line 58, in build
+    return self._build_group(entry.name, raw_cfg, overrides, registry)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/tasks/_factory.py", line 120, in _build_group
+    for child in self._build_group_members(
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/tasks/_factory.py", line 200, in _build_group_members
+    child_obj = self.build(
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/tasks/_factory.py", line 58, in build
+    return self._build_group(entry.name, raw_cfg, overrides, registry)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/tasks/_factory.py", line 120, in _build_group
+    for child in self._build_group_members(
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/tasks/_factory.py", line 210, in _build_group_members
+    child_obj = self.build(
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/tasks/_factory.py", line 61, in build
+    return self._build_task(entry, overrides)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/tasks/_factory.py", line 81, in _build_task
+    obj = ConfigurableTask(config=cfg)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/api/task.py", line 753, in __init__
+    self.download(self.config.dataset_kwargs)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/lm_eval/api/task.py", line 869, in download
+    self.dataset = datasets.load_dataset(
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/datasets/load.py", line 1688, in load_dataset
+    builder_instance = load_dataset_builder(
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/datasets/load.py", line 1353, in load_dataset_builder
+    builder_instance: DatasetBuilder = builder_cls(
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/datasets/builder.py", line 343, in __init__
+    self.config, self.config_id = self._create_builder_config(
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/datasets/builder.py", line 558, in _create_builder_config
+    builder_config._resolve_data_files(
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/datasets/builder.py", line 206, in _resolve_data_files
+    self.data_files = self.data_files.resolve(base_path, download_config)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/datasets/data_files.py", line 822, in resolve
+    out[key] = data_files_patterns_list.resolve(base_path, download_config)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/datasets/data_files.py", line 775, in resolve
+    resolve_pattern(
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/datasets/data_files.py", line 372, in resolve_pattern
+    for filepath, info in fs.glob(fs_pattern, detail=True, **glob_kwargs).items():
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/huggingface_hub/hf_file_system.py", line 728, in glob
+    return super().glob(path, maxdepth=maxdepth, **kwargs)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/fsspec/spec.py", line 642, in glob
+    allpaths = self.find(root, maxdepth=depth, withdirs=True, detail=True, **kwargs)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/huggingface_hub/hf_file_system.py", line 767, in find
+    out = self._ls_tree(path, recursive=True, refresh=refresh, maxdepth=maxdepth, **kwargs)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/huggingface_hub/hf_file_system.py", line 612, in _ls_tree
+    for path_info in tree:
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/huggingface_hub/hf_api.py", line 3927, in list_repo_tree
+    for path_info in paginate(path=tree_url, headers=headers, params={"recursive": recursive, "expand": expand}):
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/huggingface_hub/utils/_pagination.py", line 36, in paginate
+    hf_raise_for_status(r)
+  File "/home/llm/forgetting_experiment/env/lib/python3.10/site-packages/huggingface_hub/utils/_http.py", line 877, in hf_raise_for_status
+    raise _format(HfHubHTTPError, str(e), response) from e
+huggingface_hub.errors.HfHubHTTPError: Server error '504 Gateway Time-out' for url 'https://huggingface.co/api/datasets/cais/mmlu/tree/c30699e8356da336a370243923dbaf21066bb9fe/high_school_mathematics?recursive=true&expand=false' (Amz CF ID: osIdBebw8POxVDhfzi0tWER7n8NTCT7I2Zs14zsQKWZ9sQsBrowzKw==)
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504

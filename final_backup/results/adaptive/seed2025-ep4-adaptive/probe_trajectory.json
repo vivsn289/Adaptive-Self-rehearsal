@@ -1,0 +1,142 @@
+[
+  {
+    "step": 25,
+    "accs": {
+      "formal_quant": 0.43333333333333335,
+      "math_words": 0.43333333333333335,
+      "causal_commonsense": 0.7,
+      "comprehension": 0.5666666666666667,
+      "factual": 0.8333333333333334
+    },
+    "interventions": [],
+    "weights_min": 1.0,
+    "weights_max": 1.0,
+    "weights_mean": 1.0
+  },
+  {
+    "step": 50,
+    "accs": {
+      "formal_quant": 0.43333333333333335,
+      "math_words": 0.43333333333333335,
+      "causal_commonsense": 0.7333333333333333,
+      "comprehension": 0.5666666666666667,
+      "factual": 0.8333333333333334
+    },
+    "interventions": [],
+    "weights_min": 1.0,
+    "weights_max": 1.0,
+    "weights_mean": 1.0
+  },
+  {
+    "step": 75,
+    "accs": {
+      "formal_quant": 0.36666666666666664,
+      "math_words": 0.4666666666666667,
+      "causal_commonsense": 0.7333333333333333,
+      "comprehension": 0.5333333333333333,
+      "factual": 0.8333333333333334
+    },
+    "interventions": [],
+    "weights_min": 1.0,
+    "weights_max": 1.0,
+    "weights_mean": 1.0
+  },
+  {
+    "step": 100,
+    "accs": {
+      "formal_quant": 0.43333333333333335,
+      "math_words": 0.43333333333333335,
+      "causal_commonsense": 0.7333333333333333,
+      "comprehension": 0.5333333333333333,
+      "factual": 0.8666666666666667
+    },
+    "interventions": [],
+    "weights_min": 1.0,
+    "weights_max": 1.0,
+    "weights_mean": 1.0
+  },
+  {
+    "step": 125,
+    "accs": {
+      "formal_quant": 0.43333333333333335,
+      "math_words": 0.43333333333333335,
+      "causal_commonsense": 0.7333333333333333,
+      "comprehension": 0.5333333333333333,
+      "factual": 0.8666666666666667
+    },
+    "interventions": [],
+    "weights_min": 1.0,
+    "weights_max": 1.0,
+    "weights_mean": 1.0
+  },
+  {
+    "step": 150,
+    "accs": {
+      "formal_quant": 0.4666666666666667,
+      "math_words": 0.4666666666666667,
+      "causal_commonsense": 0.7,
+      "comprehension": 0.5333333333333333,
+      "factual": 0.8666666666666667
+    },
+    "interventions": [],
+    "weights_min": 1.0,
+    "weights_max": 1.0,
+    "weights_mean": 1.0
+  },
+  {
+    "step": 175,
+    "accs": {
+      "formal_quant": 0.4666666666666667,
+      "math_words": 0.4666666666666667,
+      "causal_commonsense": 0.7,
+      "comprehension": 0.5333333333333333,
+      "factual": 0.8666666666666667
+    },
+    "interventions": [],
+    "weights_min": 1.0,
+    "weights_max": 1.0,
+    "weights_mean": 1.0
+  },
+  {
+    "step": 200,
+    "accs": {
+      "formal_quant": 0.4666666666666667,
+      "math_words": 0.4666666666666667,
+      "causal_commonsense": 0.7,
+      "comprehension": 0.5333333333333333,
+      "factual": 0.8666666666666667
+    },
+    "interventions": [],
+    "weights_min": 1.0,
+    "weights_max": 1.0,
+    "weights_mean": 1.0
+  },
+  {
+    "step": 225,
+    "accs": {
+      "formal_quant": 0.4666666666666667,
+      "math_words": 0.4666666666666667,
+      "causal_commonsense": 0.7,
+      "comprehension": 0.5333333333333333,
+      "factual": 0.8666666666666667
+    },
+    "interventions": [],
+    "weights_min": 1.0,
+    "weights_max": 1.0,
+    "weights_mean": 1.0
+  },
+  {
+    "step": 250,
+    "accs": {
+      "formal_quant": 0.43333333333333335,
+      "math_words": 0.4666666666666667,
+      "causal_commonsense": 0.7,
+      "comprehension": 0.5333333333333333,
+      "factual": 0.8666666666666667
+    },
+    "interventions": [],
+    "weights_min": 1.0,
+    "weights_max": 1.0,
+    "weights_mean": 1.0
+  }
+]
