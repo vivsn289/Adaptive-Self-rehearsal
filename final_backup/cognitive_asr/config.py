@@ -54,7 +54,7 @@ TIER3_RAW_TARGET = 250
 DEFAULT_PROBE_INTERVAL = 50          # gradient steps between probe evals
 DEFAULT_TIER1_THRESHOLD = 5.0        # pp drop that triggers intervention
 DEFAULT_TIER2_THRESHOLD = 5.0        # pp; needs 3 consecutive (not 2)
-DEFAULT_REHEARSAL_FRACTION = 0.25    # fraction of each batch = rehearsal data
+DEFAULT_REHEARSAL_FRACTION = 0.30    # fraction of each batch = rehearsal data
 DEFAULT_REWEIGHT_FACTOR = 1.5
 DEFAULT_CONSECUTIVE_DROPS_T1 = 2     # triggers after N consecutive drops
 DEFAULT_CONSECUTIVE_DROPS_T2 = 3

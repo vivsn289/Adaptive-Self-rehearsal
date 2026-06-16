@@ -289,7 +289,7 @@ def build_tier2_pool():
     pool.extend(build_tier2_hellaswag(per))
     print(f"  HellaSwag: {len(pool)}")
     t2 = len(pool)
-    pool.extend(build_tier2_piqa(per))
+    #pool.extend(build_tier2_piqa(per))  # PIQA loading script unsupported
     print(f"  PIQA: {len(pool) - t2}")
     t3 = len(pool)
     pool.extend(build_tier2_lambada(per))

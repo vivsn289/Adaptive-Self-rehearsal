@@ -49,7 +49,7 @@ plt.rcParams.update({
     "axes.facecolor": "white",
 })
 
-ROOT    = os.path.expanduser("~/self_instruct/final_backup")
+ROOT    = os.path.expanduser("~/DL/self_instruct/final_backup")
 FIG_DIR = os.path.join(ROOT, "cognitive_asr", "figures")
 os.makedirs(FIG_DIR, exist_ok=True)
 

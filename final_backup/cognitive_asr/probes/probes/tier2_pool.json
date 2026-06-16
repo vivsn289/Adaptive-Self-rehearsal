@@ -1,0 +1,418 @@
+[
+  {
+    "question": "[header] How to catch mesprit in pok\u00e9mon diamond and pearl [title] Defeat team galactic. [step] Mesprit is not available to catch until you have proceeded through the story far enough to defeat team galactic by defeating cyrus and catching dialga/palkia. This will happen automatically in the story after you complete the seventh gym and raid the galactic headquarters.\nWhat happens next?",
+    "choices": [
+      "[substeps] It takes several attempts before mesprit, or hamcatalysis, is available once you have successfully beaten all the characters and head to the final gym through the story theater station. Check to make sure you have chosen the correct game.",
+      "[title] Put a pok\u00e9mon that knows surf in your party. [step] You'll need the surf ability to reach the verity cavern to trigger mesprit's appearance.",
+      "By completing the next gym in the game, you can defeat mew and dialga in the second level. [title] Defeat the boss golem in the third gym.",
+      "Remember to stay on the top map, you will note the city of omega ruby, scour the desert and kill the leaders/officers in the sapphire gym. Now go back to miner village and grab a caffeinated formula."
+    ],
+    "answer": 1,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "[header] How to cheer up [title] Stop thinking about your situation. [step] Avoid ruminating, or dwelling, on your situation too much, which can make you feel worse by making you feel stuck in a negative cycle. Rumination can prevent you from thinking effectively and problem solving.\nWhat happens next?",
+    "choices": [
+      "[substeps] Take a break from ruminating every now and then. During a crisis, just think about it.",
+      "It also has a strong link to depression. If you find yourself stuck in a certain pattern of thinking, try distracting yourself with other activities or thinking about things that are in your immediate surroundings.",
+      "Plus, your thoughts tend to turn negative if you focus on the negative moment. You can suddenly stop your self-talk and move on to something positive.",
+      "You can start to notice when negative thoughts make you feel like you're stuck in a rut. You can ask yourself : [substeps] What i say to myself and others? What i do the next time i catch myself thinking that way? Do i like this person? What will my response be like to this person? [title] Notice empathy."
+    ],
+    "answer": 1,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "[header] How to be a gentleman towards girls [title] Be polite. [step] When you meet a girl for the first time, be sure make eye contact and maintain it as you introduce yourselves to each other. Don't look at the floor or stare at her body.\nWhat happens next?",
+    "choices": [
+      "This may seem awkward at first, but it's the best indicator that you respect the girl you are meeting. [substeps] If you aren't sure what you want to say, i have suggestions.",
+      "Also, try to watch her body language. If she's not interested in talking, let her.",
+      "This is a sign you might be flirting with her and she might be interested. [substeps] Approach her slowly and really introduce yourself to her.",
+      "[title] Do simple things like opening doors for a girl when you're out together or bringing her a small bunch of flowers on your first date. [title] Be courteous when you are talking to a girl you like."
+    ],
+    "answer": 3,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "[header] How to lighten or brighten dark hair with lemon juice [title] Cut and juice your lemons. [step] Slice your lemon in half. If you have a hand juicer, you can use it to speed up this step, otherwise simply squeezing the lemon by hand works fine.\nWhat happens next?",
+    "choices": [
+      "[title] Mix a tablespoon of lemon juice with two tablespoons of honey. [step] For a baby's first facial, your honey is necessary for quick lightening.",
+      "Over a cup or other container, squeeze the lemon until all of the juice is thoroughly drained. You may accidentally get a few seeds in your cup, but that's ok.",
+      "[title] Place the lemon halves in a bowl. [step] Use a large bowl to measure out 4 cups of lemon juice, while you're in the shower.",
+      "Simply cut your lemon in half, then arrange the halves halves in a bowl. Be careful with the cut lemons; some meringues have a tough texture, and this could ruin your taste rating."
+    ],
+    "answer": 1,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "[header] How to bake kabocha squash [title] Cut the stem off the top of the squash. [step] Place the tip of a sharp kitchen knife 1 inch (2.5 cm) from the stem of the squash. Penetrate the skin of the squash and cut around the stem.\nWhat happens next?",
+    "choices": [
+      "Lift the peel off the top of the squash by turning the knife counterclockwise and keeping pressure on the peel. Tear off the top of the squash by turning it sideways with a sharp knife.",
+      "Pull the tender sections from the stem and discard the central core. [substeps] Sometimes you'll need to water the squash to dry it out.",
+      "Then, pull up on the stem to remove it. [substeps] You need a sharp knife to cut through the thick skin of the squash.",
+      "[substeps] If possible, have someone else cut the squash up to ensure that it is safe to be cut into pieces. [title] Boil the squash to turn it into bite-sized pieces."
+    ],
+    "answer": 2,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "Two men perform a flip move on a playground that leads to one being dropped on the ground. the camera\nWhat happens next?",
+    "choices": [
+      "follows the men down the path.",
+      "zooms in on the fallen man while they all laugh together.",
+      "rolls off and turns around on itself in slow motion.",
+      "follows one man to the ground, but is blocked by a garbage can and one man surrounds him with objects."
+    ],
+    "answer": 1,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "[header] How to put a toddler to bed [title] Start a routine which they know precedes bedtime. [step] Kids thrive on routine. Usually things that start to slow them down will help get them sleepy and prepare them for bedtime.\nWhat happens next?",
+    "choices": [
+      "Make sure your toddler's routine stays consistent with bedtime. [title] Put their diapers, toys, and bedding in a neutral place on your bed.",
+      "Some nighttime routines include : [substeps] Giving the kid a bath. This will not only clean them up, but the warm water will comfort them and hopefully induce sleep.",
+      "Prioritize even the odd little thing like a small toy in the crib. [title] Expose them to a variety of activities.",
+      "Your routine, at least a few hours before bedtime, should start immediately around 9 am so you'll have enough time to do the routine the rest of the day. [substeps] Establishing a schedule will also lead to daily tasks like gently introducing different games and foods to your toddler."
+    ],
+    "answer": 1,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "[header] How to become an electrician in maine [title] Participate in a pre-apprenticeship in high school. [step] Maine offers a pre-apprenticeship program for students in 11th and 12th grade. The program requires students to log 1 , 000 hours of on-the-job electrician training by working part-time during the school year, and part-time or full-time during the summer.\nWhat happens next?",
+    "choices": [
+      "Although the program is relatively easy, it can be challenging. To become an electrician in maine, you will want to take your ged or related courses to college level where you'll get an equivalent degree in electrical engineering.",
+      "[title] Get certified as a electrician in maine. [step] The required courses can be found online using the skills skills calculator or the maine electrician association's website.",
+      "Upon completion of the pre-apprenticeship program, graduates may enter an electrician apprenticeship program. Pre-apprenticeship hours count towards the hours required for the electrician apprenticeship in maine.",
+      "[substeps] Some operators require a bachelor's degree in carpentry or plumbing or an advanced degree in electrical engineering. These classes can also help you hone your electrical skills."
+    ],
+    "answer": 2,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "[header] How to ready a young child for ballet class [title] Get a dance bag. [step] In most dance studios, they sell merchandise such as leotards, tights, shoes, and duffel bags. They come in all sizes, patterns, and prints so get one that is right for your child.\nWhat happens next?",
+    "choices": [
+      "[substeps] Good sizes for your child can also take into account what activities you are doing in your classes each day. For example, if you are ballet class, coordinate what your child is doing each day to stay visible while practicing and engaging the extra time they get to practice and class.",
+      "If they are only in ballet, get a small bag that will hold their leotard, tights, ballet slippers, hair items, and spare shoes. If your child is in more than one dance genre (jazz, acro, musical theater, hip-hop, lyrical, tap, etc.",
+      "[substeps] You can either find a shoe or hat that matches your child. Schedule a dance class at your studio at least three weeks before the ballet performance.",
+      "The bag should include all the accessories so that your child can move around. [substeps] Try to buy a bag that is colourful and bright-coloured, so that your child can perspire from dancing in this bag."
+    ],
+    "answer": 1,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "An introduction comes onto the screen for a video about working in the kitchen. a man\nWhat happens next?",
+    "choices": [
+      "introduces sitting on a stool to an introduction about a marinating dish.",
+      "walks into the kitchen and begins putting dishes into a dishwasher and several clips of ingredients are shown.",
+      "comes onto the screen and shows people how to best sharpen their knives while commenting on the best way to do it.",
+      "takes a contact out of his eye while he watches the woman for instructions."
+    ],
+    "answer": 2,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "A lawn mower is shown on the ground. a man\nWhat happens next?",
+    "choices": [
+      "uses it to push his lawn mower through the grass.",
+      "starts the lawn mower and begins mowing the lawn.",
+      "washes the lawn in front of the mower.",
+      "runs up and grabs it, throwing it into the yard."
+    ],
+    "answer": 1,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "A cowboy is riding on a horse in a large arena and is swinging his rope. the view\nWhat happens next?",
+    "choices": [
+      "turns to a view of a canyon with large rocks around.",
+      "cuts away to him jumping off of the horse and pulling a woman off.",
+      "changes to show a group of men with their horses and they're each holding onto their ropes and doing various things with them like tying and swinging them.",
+      "changes to see the man fly over the arena."
+    ],
+    "answer": 2,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "[header] How to style thick hair for men [title] Get a textured hairstyle if you have short thick hair. [step] Short, thick hair that is choppy and textured on top will look more styled than if it were all one length. When you're ready to style it, you can spike it up or brush it off to one side.\nWhat happens next?",
+    "choices": [
+      "[title] Go with an undercut if you have medium-length thick hair. [step] Undercuts are long on top and short on the sides and nape of the head, so you can still have length without your hair being unruly or in your face all the time.",
+      "[substeps] Try side-swept styles because they'll give your hair more volume and will leave you with short layers on top. If you can pull a side side-swept look off with your bangs, try wearing them straight down.",
+      "[substeps] Get enough frizz and length so that your part isn't too short. [title] Use wax, hairspray, or mousse if you like.",
+      "You can easily do this with a hairspray if you're holding a lot of hair in one hand and let your arm roll. [substeps] If your thick hair falls below your forehead on the sides, you may also need to use a diffuser to ease that back."
+    ],
+    "answer": 0,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "[header] How to make a birth keepsake [title] Write a letter to your unborn child. [step] Write what you are feeling, hoping for them in the future, about your feelings of excitement. [title] Write another letter to your child the day they are born.\nWhat happens next?",
+    "choices": [
+      "[step] Let them know what was going on that day. What events were taking place while you were awaiting their arrival.",
+      "[step] It may be a lot more time than you think it will take, so be patient. Some mothers find that their anger levels quickly skyrocket because they have always been waiting to hear the baby's first heartbeat.",
+      "[step] Do not skip any steps! [title] Get a large box. [step] Put seeds, crayons, and anything else you like in there.",
+      "[step] It might be something as simple as \" i was hoping for them, and i wish they were here, \" or \" i wanted to be there for them and watch them grow up. \" [title] Put on some music on and sing songs to accompany your letters."
+    ],
+    "answer": 0,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "[header] How to plant pansies in containers and pots [title] Consider buying container-grown pansies from seed or bedding plants. [step] Pansies are easy to grow from seed and seed growing is usually the most economical way to obtain pansy plants. [substeps] However, pansies can be purchased from a nursery such as bedding plants or plug plants.\nWhat happens next?",
+    "choices": [
+      "Boxmatter and perlite are popular options, but you can grow pansies from seeds. Pansies grow best in terracotta pots, so a pot with rolled-up paper noodles or a pot in plastic outdoor bins is a better place to grow your pansies.",
+      "They are usually available in spring and fall. If you purchase pansies in the fall, they will need to be planted 6 weeks ahead of the first frosts.",
+      "Pansies that grow from seeds can be purchased from your local nursery as well. [title] Pick pansies for blue foliage, green stem bunches, small leaves, and no other unusual characteristics.",
+      "Pansies grow best from seed because they are tiny and low in density and tend to grow on the floor or walls of containers. Flowering pansies can last for years if cared for properly."
+    ],
+    "answer": 1,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "[header] How to elope abroad [title] Choose a destination first. [step] Each country has different requirements for getting married within its borders, and those requirements often depend on your citizenship. Choosing a destination should be the first thing you do, because it will determine what your next steps need to be.\nWhat happens next?",
+    "choices": [
+      "[substeps] Check government websites to verify that you have some planning to do. Many places, some cities and not all major cities, do not agree to a couples' religious relationship.",
+      "[substeps] When you go to the country, any commitments to the country will be explained in the destination bank statement or on your passport. Leaving a country to get married can be unpredictable, and you can affect the financial situation for those who live there.",
+      "You'll need to visit a country or country where you're able to get married, in order to understand what the right field or nationality are for your relationship. [substeps] Generally, your spouse will have to prove at least some ability to reasonably describe country borders, regardless of where you are.",
+      "[substeps] For example, mexico is a popular wedding destination because many of the resorts there have lots of experience hosting weddings for non-citizens. Puerto rico, france, and italy are also popular wedding destinations for non-citizens, but all have varying legal requirements."
+    ],
+    "answer": 3,
+    "source_benchmark": "hellaswag",
+    "tier": 2,
+    "cognitive_justification": "Commonsense/narrative reasoning: requires understanding the context across multiple sentences and inferring the most plausible continuation."
+  },
+  {
+    "question": "He cradled me against his chest like a child. I tried to tell him I would walk, but when I glanced back at the truck, the words died on my lips.\n\n\"Are we taking that?\" I asked shakily.\n\n\"Yep.\"\n\nI began to shake. He stopped and looked between me and the _____\nWhat word fills in the blank?",
+    "choices": [
+      "truck",
+      "rib",
+      "rita",
+      "urge"
+    ],
+    "answer": 0,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "\u201cAh, ah, ah, Mister,\u201d says Madame Pauline, her tone admonishing.\u201cOff to the bathroom with you and change out of those clothes, right now!\u201d\nI can\u2019t help but smirk at the treatment my uncle\u2019s getting. \n\u201cIt\u2019s only a bit of mud, Madame Duguay, really.\u201d\n \u201cA bit of - you call that a bit of a _____\nWhat word fills in the blank?",
+    "choices": [
+      "secure",
+      "devoted",
+      "fishhook",
+      "mud"
+    ],
+    "answer": 3,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "\"So was it me or Tony who convinced you I was telling the truth?\" The wrinkles around his eyes deepened.\n\n\"You, Jude,\" I answered. \"I promised you I'd trust you. I didn't want to believe it, but I trusted you. Tony was just the one that shined a light on the _____\nWhat word fills in the blank?",
+    "choices": [
+      "hesitate",
+      "truth",
+      "farmland",
+      "mina"
+    ],
+    "answer": 1,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "\"That's what makes it fun,\" she told him, and slipped out of his grasp to walk beneath the awning and into the aisle that wound its way past at least thirty different booths.\n\nShe wandered through the crowd, sensing Nick's presence behind her. She glanced at tables set up with sterling silver rings and necklaces, leather coin purses and crocheted shawls that hung in colorful bunches from a rope stretched across the front of a _____\nWhat word fills in the blank?",
+    "choices": [
+      "walsh",
+      "malorn",
+      "booth",
+      "wren"
+    ],
+    "answer": 2,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "He glanced back and forth between Andrew and me, his hand tightening on the apron.\n\n\"Luke, it's not what it looks like-\" Andrew started, but Luke cut him off.\n\n\"Not what it looks like? It looks like you and Holly were kissing. Like you two have something going on. You want to lie to me about that, _____\nWhat word fills in the blank?",
+    "choices": [
+      "andrew",
+      "remerge",
+      "professors",
+      "kittens"
+    ],
+    "answer": 0,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "Josh was sitting back at Bob's favorite table sipping tea.  \nBob started raising Cain and Josh returned the complements until they made contact.  Then swings caught in the air and wrestling started until the waitress brought out an iron skillet from the kitchen and threatened both of them.  \nI'd never seen Josh bow to a woman before, but he bowed to the waitress and asked her, \u201cCan I be of assistance against this ruffian,\u201d pointing over his shoulder at _____\nWhat word fills in the blank?",
+    "choices": [
+      "washed",
+      "caroline",
+      "bob",
+      "religious"
+    ],
+    "answer": 2,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "I would really like to have some time with my mom.\"\n\nLucien groaned inwardly. How could he say no to that? Julia was grieving for her mate and at a loss on how to deal with her daughter. Now Jaeden actually wanted to speak to her mom... he would be an ogre if he said no. He gave a quick nod and ignored the grateful smile she threw him before her and her mother ambled out of the room _____\nWhat word fills in the blank?",
+    "choices": [
+      "together",
+      "suspended",
+      "chortled",
+      "sparhawk"
+    ],
+    "answer": 0,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "He was enjoying this.\n\nHe braced her weight with his body and his other hand undid the belt of her jeans. Then he undid the button. Then he slid down the zip.\n\nAll the while he did this, he reminded her, \"You said it's confusing. I'd like to know what's _____\nWhat word fills in the blank?",
+    "choices": [
+      "draws",
+      "logan",
+      "strip",
+      "confusing"
+    ],
+    "answer": 3,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "\u201cAnd when we\u2019re sure they are off you must tell me everything, even the bad parts. I\u2019ve arranged an expedited hearing in County Superior, and it\u2019s better if we bring up damaging evidence before they do.\u201d\nDesmond thought. \u201cHow soon is expedited?\u201d he asked. \n\u201cTwo days,\u201d Cynthia replied. \n\u201cTwo days\u2026 that works,\u201d said _____\nWhat word fills in the blank?",
+    "choices": [
+      "squeezes",
+      "cyrus",
+      "blindness",
+      "desmond"
+    ],
+    "answer": 3,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "\"So what have you found out?\" Gaent asked.\nNero put out both hands in front of him, fingers wide. \"Nothing,\" he pronounced.\n\"You were always a good investigator,\" said Gaent. \"I don't believe it's nothing.\"\n\"Maybe I've lost my touch,\" said _____\nWhat word fills in the blank?",
+    "choices": [
+      "duke",
+      "fitz",
+      "nero",
+      "story"
+    ],
+    "answer": 2,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "I could really join the department and be one of the good guys.\u00a0 I could really have a reason to get up in the morning, do something meaningful with my life.\u201d\u00a0 Were her eyes getting a little misty?\u00a0 She would not let herself cry in front of Corey Stone!\n\u201cI think I know why you came back,\u201d said _____\nWhat word fills in the blank?",
+    "choices": [
+      "daughter",
+      "drop",
+      "voyages",
+      "corey"
+    ],
+    "answer": 3,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "\u2018Well, gentlemen, it seems as though our victim did indeed die as a result of blunt force trauma, a single blow to the back of the head. TOD is, as I thought initially, sometime on Friday evening, probably between 7.30 and 9.30.\u2019\n\u2018Any idea about what was used?\u2019 asked Jenkins.\n\u2018We found a splinter of wood in the wound.  I\u2019ll have it analysed to see what sort of _____\nWhat word fills in the blank?",
+    "choices": [
+      "pebbles",
+      "wood",
+      "chainsaw",
+      "foreboding"
+    ],
+    "answer": 1,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "The only people that Meledrin knows with more than a passing acquaintance are in this room, and the Palsamon guy in London.\"\n\"Miss McLean, Shoshone isn't a person, it's a language. It's the language spoken by several Native American tribes from around this region. Senior Airman Dongoske here is from one of those _____\nWhat word fills in the blank?",
+    "choices": [
+      "numerous",
+      "marry",
+      "tribes",
+      "patio"
+    ],
+    "answer": 2,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "\"If you wanted me to have a happy birthday, you'd come over to my party. \"\n\n\"Your party,\" I repeated flatly.\n\n\"Yeah, remember? Andrea invited you?\"\n\nI remembered. I'd been thinking about it every day this week.\n\n\"I didn't think I was still _____\nWhat word fills in the blank?",
+    "choices": [
+      "invited",
+      "soberly",
+      "reacting",
+      "idea"
+    ],
+    "answer": 0,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "Tell me, does he use utensils at the table or merely growl and chew his meat like a brute?\"\n\n\"Both.\" Rosalind laughed. \"But to be fair, he has been very good to me.\"\n\nLord Rawlings squinted, looking into her eyes with such seriousness that she felt the need to turn away. \"And the state of your heart, _____\nWhat word fills in the blank?",
+    "choices": [
+      "campaign",
+      "rosalind",
+      "stds",
+      "points"
+    ],
+    "answer": 1,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  },
+  {
+    "question": "I didn\u2019t want to push her since we had our pasts to catch up on.  \n\u201cI knew one day it would find you.\u201d  She gazed at me while running her fingers through my hair.  \u201cThe amulet had a connection to me and I knew when you had it.  I was overjoyed that day.\u201d\n\u201cWhat was it like\u2014I mean connected to the _____\nWhat word fills in the blank?",
+    "choices": [
+      "balcony",
+      "messing",
+      "grumbles",
+      "amulet"
+    ],
+    "answer": 3,
+    "source_benchmark": "lambada_openai",
+    "tier": 2,
+    "cognitive_justification": "Long-range language coherence: requires tracking coreference and narrative thread across a full paragraph to predict the final word."
+  }
+]

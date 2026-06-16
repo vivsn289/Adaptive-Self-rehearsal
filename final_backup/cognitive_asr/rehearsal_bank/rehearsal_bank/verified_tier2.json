@@ -1,0 +1,1436 @@
+[
+  {
+    "instruction": "A new policy mandates recycling in all households. People are required to sort their waste into separate bins for recyclables, non-recyclables, and trash.\n\nWhat is the likely effect of the policy on the amount of waste sent to landfills?",
+    "output": "The policy likely has a positive effect on reducing the amount of waste sent to landfills, as more waste is diverted from recyclables bins and sent to non-recyclables and trash bins due to sorting requirements.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study shows that consuming blueberries improves cognitive function. People who want to improve their memory begin eating blueberries regularly. However, they later notice that they feel sluggish after eating blueberries.\n\nWhat could be a possible cause for the feeling of sluggishness after eating blueberries?",
+    "output": "Feeling of sluggishness after eating blueberries could be due to increased cognitive function caused by regular consumption of blueberries, which might have a different effect on the body that results in sluggishness.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study shows a link between frequent use of a certain type of smartphone screen protector and reduced eye strain. However, the study has several limitations.\n\nHow might the limitations of the study affect the interpretation of the results?",
+    "output": "The limitations in the study design or sample size could lead to uncertainty in the conclusions, potentially causing misinterpretation of the results.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Eiffel Tower, located in Paris, France, is one of the most iconic landmarks in the world. It was built for the 1889 World's Fair and has since become a symbol of Paris and France. The tower stands at 324 meters tall and has four levels that visitors can explore. The tower has been featured in numerous films and TV shows and is visited by millions of people each year.\n\nQuestion: Where is the Eiffel Tower located?",
+    "output": "In Paris, France.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "In the realm of technology, the rise of artificial intelligence has brought about significant changes. AI algorithms can now analyze vast amounts of data and provide insights that were previously impossible to obtain. These insights have helped businesses make more informed decisions and improve their operations. However, the development of AI also raises concerns about job displacement and the need for new skills.\n\nQuestion: What concerns does the development of artificial intelligence raise?",
+    "output": "Job displacement and the need for new skills.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A large tech company launches a new product that significantly improves customer experience. This leads to increased customer satisfaction and retention, which in turn results in higher profits.\n\nWhat is the likely impact of the tech company's new product on its profit margins?",
+    "output": "The new product likely has a positive impact on the tech company's profit margins due to increased customer satisfaction, retention, and repeat business leading to higher revenue and profits.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company invests in an employee training program. This leads to improved employee skills, resulting in increased productivity and customer satisfaction. The company's stock price rises as a result.\n\nWhat is the direct economic impact of the company's investment in employee training?",
+    "output": "The direct economic impact of the company's investment in employee training is likely an increase in its stock price due to higher productivity and customer satisfaction resulting from improved employee skills.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A community begins a recycling initiative, aiming to reduce waste and improve environmental health. The initiative includes incentives for recycling and penalties for littering. However, the penalties are not well enforced, leading to inconsistent results.\n\nWhat are the likely long-term environmental and economic impacts of this recycling initiative?",
+    "output": "The long-term environmental and economic impacts of the recycling initiative are likely to include reduced pollution, lower healthcare costs, increased property values, and economic benefits due to improved environmental health. However, inconsistent results from poorly enforced penalties may limit the full potential of these benefits.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A student fails to complete their homework assignment. Consequently, the student's grades suffer, leading to a decrease in their scholarship eligibility.\n\nWhat is the likely effect of the student failing to complete their homework on their academic standing?",
+    "output": "The likely effect of the student failing to complete their homework is a potential academic setback, as it could lead to reduced scholarship eligibility and loss of academic support.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new policy mandates the use of electric vehicles (EVs) in urban areas. Initially, EV adoption is slow, but over time, car dealerships see a surge in EV sales. Meanwhile, gas stations experience declining sales and may need to adapt their business model.\n\nHow might declining gas station sales affect local economy?",
+    "output": "Declining gas station sales may negatively impact the local economy, potentially requiring gas stations to adapt their business models by offering EV charging services to remain competitive.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company implements a new marketing strategy. Customers respond favorably, leading to a surge in sales. However, the strategy requires additional investment in technology, which raises the cost of production.\n\nWhat is the relationship between the new marketing strategy, increased sales, and the rise in production costs?",
+    "output": "The rise in production costs is due to the increased demand for the product from the new marketing strategy, which led to a surge in sales and a need to produce more.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A tech company launches a new product. The product is highly successful and garners a loyal customer base. However, the company's carbon footprint has increased due to higher energy usage.\n\nWhat is the direct environmental impact of the tech company's new product launch?",
+    "output": "The direct environmental impact of the tech company's new product launch is an increased carbon footprint due to higher energy consumption to support the growth in customer base.\nYou are an AI assistant that helps people find information. User will you give you a question. Your task is to answer as faithfully as you can. While answering think step-by-step and justify your answer.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new law increases the minimum wage. As a result, some businesses adjust their operations, either by increasing prices or reducing employee hours. Consumers are aware of the wage increase, leading to an unexpected rise in demand for cheaper goods.\n\nWhat is the likely effect on consumer behavior and local businesses in the region?",
+    "output": "Consumer behavior and local businesses in the region are likely to adjust in response to the wage increase, with some businesses increasing prices and others reducing employee hours. This could lead to a rise in demand for cheaper goods due to the unexpected price hike.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A tech company invests in AI research. As a result, it develops advanced machine learning algorithms that can process large datasets faster and more accurately. The algorithms are used to optimize supply chain logistics, reducing costs and improving efficiency.\n\nWhat is the likely impact on the company's bottom line?",
+    "output": "The company's bottom line is likely to be positively impacted due to the development of advanced machine learning algorithms that optimize supply chain logistics, reducing costs and improving efficiency, which will lead to increased profitability.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Amazon rainforest, located in South America, is the largest tropical rainforest in the world. It covers an area of over 6.7 million square kilometers and is home to an estimated 400 billion individual trees. The Amazon is also home to thousands of species of plants and animals, many of which are found nowhere else on Earth.\n\nQuestion: What is the largest tropical rainforest in the world?",
+    "output": "The Amazon rainforest.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A town is hit by a severe winter storm. As a result, the electricity grid collapses due to widespread power outages. Local businesses lose power, and residents are unable to heat their homes.\n\nWhat are the direct and indirect effects of the power outage on the town's economy?",
+    "output": "The direct effect of the power outage on the town's economy is reduced productivity and loss of revenue for businesses due to power outages. Indirect effects include increased demand for emergency services and a financial burden on local services due to residents being unable to heat their homes.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology is introduced that significantly reduces production costs for a particular industry. This leads to an increase in demand for the products made by this industry.\n\nWhat is the likely effect on the economy of the region where this industry is located?",
+    "output": "The region's economy is likely to experience growth and improvements due to the introduction of the new technology, as it will lead to increased supply, higher demand, economic growth, job creation, and improved consumer spending.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A town decides to implement a curfew to reduce crime rates. However, teenagers start using the streets for parties and illegal activities, and the curfew is ineffective.\n\nWhat are the unintended consequences of the curfew on youth behavior?",
+    "output": "The unintended consequences of the curfew include negative impact on community safety due to teenagers' behavior changes to accommodate the curfew.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology is introduced that allows remote work. Companies experience improved efficiency, lower overhead costs, and better work-life balance for employees. However, there is a growing concern about the impact on local economies where the technology was introduced.\n\nWhat are the long-term implications of the widespread adoption of remote work technology for local economies?",
+    "output": "The long-term implications of the widespread adoption of remote work technology for local economies include reduced local job opportunities due to companies needing fewer in-person workers, potentially leading to economic impacts in local areas.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new smartphone app that tracks local weather conditions gains widespread popularity among users. As a result, residents start checking the app more frequently to stay updated on weather changes. This leads to increased public awareness about extreme weather events.\n\nWhat is the likely impact of the app on residents' perception of weather-related risks?",
+    "output": "Residents' perception of weather-related risks likely improved due to increased awareness of local weather conditions through the new weather tracking app, enhancing their preparedness for extreme weather events.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology reduces production costs for a company. As a result, they decide to expand their product line, which leads to increased marketing efforts. The marketing efforts lead to higher brand awareness and increased sales, resulting in higher profits.\n\nWhat are the direct effects of the technology reduction on company profits?",
+    "output": "The direct effects of the technology reduction on company profits include increased production efficiency, expanded product line, higher marketing efforts, higher brand awareness, increased sales, and ultimately, higher profits.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Amazon rainforest, covering parts of Brazil, Peru, Colombia, Ecuador, Bolivia, Guyana, Suriname, and French Guiana, is the world's largest tropical rainforest. It is home to millions of species of plants and animals, and plays a crucial role in regulating the Earth's climate. The forest's trees absorb large amounts of carbon dioxide, helping to mitigate climate change.\n\nQuestion: What is the primary role of the Amazon rainforest in regulating the Earth's climate?",
+    "output": "Regulating the Earth's climate.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a severe heatwave. As a result, the air conditioning systems in public buildings become overburdened, leading to power outages. The power outages result in widespread blackouts, impacting businesses and residents' access to critical services.\n\nWhat are the primary effects of the heatwave on the city's energy infrastructure and services?",
+    "output": "The primary effects of the heatwave on the city's energy infrastructure and services include overburdened air conditioning systems leading to power outages, resulting in widespread blackouts that impact businesses and residents' access to critical services.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new park is built in a densely populated urban area. As a result, more people have access to recreational spaces, leading to a decrease in obesity rates. However, the construction of the park also requires the demolition of some residential homes, causing temporary housing shortages for some residents.\n\nWhat are the indirect social and environmental impacts of the new park on the community?",
+    "output": "The indirect social and environmental impacts of the new park on the community include improved health and well-being of the residents due to increased access to recreational spaces, reduced healthcare costs, increased tax revenue from healthier residents, investment in local healthcare facilities, and potentially reduced environmental impact from the construction process.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Amazon Rainforest, located in South America, is the largest tropical rainforest in the world. It covers an area of over 5.5 million square kilometers and is home to millions of plant and animal species. The Amazon River, which runs through the heart of the rainforest, is the second longest river in the world and the largest by volume. The Amazon Rainforest is also known as the \"lungs of the planet\" due to its immense role in regulating the Earth's climate.\n\nQuestion: What is the largest tropical rainforest in the world?",
+    "output": "The Amazon Rainforest.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology reduces the cost of producing electric cars. This leads to increased demand for electric cars, causing manufacturers to produce more cars. The increased production requires more raw materials, leading to higher prices for those materials.\n\nWhat is the likely effect of the reduction in production costs for electric cars on the overall economy?",
+    "output": "The overall economy may experience higher prices for raw materials due to increased demand for electric cars caused by reduced production costs.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new law is passed that increases the minimum wage. As a result, companies reduce employee hours, leading to layoffs. This economic downturn causes a decrease in demand for local products, leading to reduced production.\n\nWhat are the immediate economic effects of the new minimum wage law on local businesses?",
+    "output": "Local businesses may experience immediate economic effects of reduced production due to decreased demand for local products as a result of layoffs caused by reduced employee hours due to the new minimum wage law.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A person eats a large meal, causing discomfort. They decide to lie down and rest. The discomfort subsides, and they feel more relaxed.\n\nWhat is the likely effect of the person eating a large meal on their mood and well-being?",
+    "output": "The person's mood and well-being likely improved due to reduced stress and relaxation caused by the discomfort subsiding after eating a large meal.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The city of Tokyo, Japan, is known for its vibrant culture and bustling streets. It is home to iconic landmarks such as the Tokyo Tower and the Meiji Shrine. Tokyo is also known for its delicious cuisine, including sushi and ramen. The city is the largest metropolitan area in Japan and is the economic and political center of the country.\n\nQuestion: What is Tokyo known for?",
+    "output": "Tokyo is known for its vibrant culture, bustling streets, iconic landmarks such as the Tokyo Tower and the Meiji Shrine, delicious cuisine, including sushi and ramen, and being the largest metropolitan area in Japan and the economic and political center of the country.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new law is passed requiring all drivers to wear seat belts. People start wearing seat belts more frequently, which reduces the number of serious injuries and fatalities in car accidents. However, the increased safety leads to more cautious driving, which inadvertently increases fuel consumption.\n\nWhat are the unintended consequences of the new seat belt law on fuel consumption?",
+    "output": "The unintended consequence of the new seat belt law on fuel consumption is an increase in fuel consumption due to slower speeds and more idling caused by more cautious driving.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study claims that consuming chocolate can lower blood pressure. This leads to an increase in chocolate sales. However, subsequent research shows that the initial study was flawed and chocolate has no effect on blood pressure.\n\nWhat are the likely effects on chocolate sales and public health knowledge?",
+    "output": "Chocolate sales may initially increase due to the flawed study, but they will likely return to normal once the flaws are exposed. Public health knowledge about chocolate's effect on blood pressure may also change, shifting away from the initial claim.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study reveals a correlation between high levels of sugar intake and increased risk of diabetes. A public health campaign promotes reduced sugar consumption. People adopt healthier eating habits, and the incidence of diabetes begins to decline.\n\nWhat is the likely impact of the public health campaign on the incidence of diabetes?",
+    "output": "The public health campaign likely led to a decline in the incidence of diabetes as people adopted healthier eating habits resulting from reduced sugar consumption.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Amazon rainforest, covering parts of nine countries in South America, is the largest tropical rainforest in the world. It spans over 6.7 million square kilometers and is home to a vast array of plant and animal species. The rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide from the atmosphere.\n\nQuestion: Where is the Amazon rainforest located?",
+    "output": "In South America, covering parts of nine countries.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology for energy-efficient homes is introduced. Homeowners adopt the technology, leading to a decrease in overall energy consumption. However, this reduced energy demand leads to job losses in the energy sector.\n\nWhat are the potential long-term consequences of the technology's adoption on the local economy?",
+    "output": "The long-term consequences of the technology's adoption could be a reduced economic activity in the local area due to job losses in the energy sector as a result of decreased energy demand.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school implements a new online learning platform. Teachers adapt to the platform, enhancing their digital literacy. As a result, students become more engaged in online learning.\n\nWhat are the potential long-term effects of the new online learning platform on student engagement and academic performance?",
+    "output": "The new online learning platform has the potential to increase student engagement and academic performance in the long term by enhancing teachers' digital literacy and making students more engaged in online learning.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new, highly efficient recycling program is implemented in a city. As a result, waste disposal costs decrease. However, the reduced cost incentivizes businesses to produce more waste, leading to an increased demand for new recycling containers.\n\nHow does the decrease in waste disposal costs influence the demand for new recycling containers?",
+    "output": "The decrease in waste disposal costs likely leads to an increased demand for new recycling containers due to businesses producing more waste as a result of reduced costs, despite the initial recycling program's aim to decrease waste.\nYou are an AI assistant that follows instruction extremely well. Help as much as you can.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study suggests that drinking coffee may improve cognitive function. A group of individuals begin drinking coffee regularly, leading to improved concentration and memory.\n\nWhat are the potential health benefits of regular coffee consumption?",
+    "output": "Regular coffee consumption may have potential health benefits such as improved concentration and memory due to increased cognitive function from the new study suggesting coffee's cognitive benefits.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system. It stretches over 2,300 kilometers and is composed of over 2,900 individual reefs. The reef supports an enormous diversity of marine life and is listed as a UNESCO World Heritage Site.\n\nQuestion: What is the Great Barrier Reef?",
+    "output": "The Great Barrier Reef is the world's largest coral reef system located off the coast of Queensland, Australia.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new policy is implemented to reduce plastic use. Plastic recycling is incentivized, and single-use plastics are banned in public spaces. As a result, plastic waste significantly decreases.\n\nWhat is the likely environmental impact of this policy?",
+    "output": "The policy likely has a positive environmental impact, including less pollution, improved water quality, and healthier ecosystems due to decreased plastic waste from the reduction in plastic use.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A country experiences a significant decline in the number of tourists due to the outbreak of a novel virus. This decline results in a decrease in local hotel bookings. As a consequence, hotel owners reduce their staff to cut costs, leading to fewer job opportunities in the hospitality industry.\n\nWhat is the likely effect of the decline in tourism on the employment rate in the country?",
+    "output": "The employment rate in the country is likely to decrease due to reduced hotel staffing and associated job losses caused by the decline in tourism.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system. It stretches over 2,300 kilometers and is composed of over 2,900 individual reefs. The reef supports an enormous diversity of marine life and is listed as a UNESCO World Heritage Site.\n\nQuestion: What is the Great Barrier Reef known for?",
+    "output": "It is the world's largest coral reef system and supports an enormous diversity of marine life.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A study reveals that individuals with a particular gene variant are more prone to develop a certain disease. The gene variant affects the regulation of a protein involved in the immune system, which leads to weaker immune response.\n\nHow might the gene variant influence an individual's susceptibility to the disease?",
+    "output": "The gene variant likely influences an individual's susceptibility to the disease by affecting their immune response, potentially making them more prone to develop the condition due to weaker immunity.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study shows a correlation between increased screen time and reduced sleep quality. Teenagers who spend more time on social media before bed report having trouble falling asleep. This lack of sleep leads to daytime fatigue and lower academic performance.\n\nWhat is the likely impact of excessive screen time before bedtime on teenagers' academic performance?",
+    "output": "Excessive screen time before bedtime is likely to impact teenagers' academic performance due to daytime fatigue caused by reduced sleep quality.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system. It stretches over 2,300 kilometers and is composed of over 2,900 individual reefs. The reef supports an enormous diversity of marine life and is listed as a UNESCO World Heritage Site.\n\nQuestion: What is the Great Barrier Reef known for?",
+    "output": "It supports an enormous diversity of marine life.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The International Space Station (ISS) is a habitable artificial satellite in low Earth orbit. It is the largest man-made object in space and is composed of multiple modules from various space agencies. The ISS orbits the Earth at an altitude of approximately 400 kilometers and has been continuously occupied since November 2000.\n\nQuestion: What is the International Space Station?",
+    "output": "The International Space Station (ISS) is a habitable artificial satellite in low Earth orbit, composed of multiple modules from various space agencies, and orbits the Earth at an altitude of approximately 400 kilometers.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A country experiences a severe economic recession. People lose their jobs and can no longer afford basic necessities. As a result, they rely more on public transportation, which leads to increased demand for public services like trash collection.\n\nHow does the economic recession impact the demand for public services like trash collection?",
+    "output": "The economic recession likely increases demand for public services like trash collection due to higher usage of public transportation as a result of job loss and reduced income.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A group of scientists discovers a new species of bacteria that can break down plastic waste. They test the bacteria's effectiveness in a controlled environment and find it highly efficient. The bacteria are then released into a large landfill.\n\nWhat is the likely impact on the amount of plastic waste remaining in the landfill over time?",
+    "output": "The amount of plastic waste remaining in the landfill is likely to decrease over time due to the breakdown of plastic waste by the bacteria, which is caused by the release of the efficient bacteria into the landfill.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new park is developed in a city. The park's presence attracts more tourists, boosting local businesses. However, the park's construction leads to temporary job loss in nearby factories.\n\nWhat are the potential indirect economic effects of the park on local businesses?",
+    "output": "The new park may have both indirect positive (increased tourism leading to higher revenue for local businesses) and negative (temporary job loss leading to higher wages for remaining workers) economic effects on local businesses.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a prolonged drought. As a result, the reservoir water level drops critically low. The water authority implements strict rationing, which causes local farmers to reduce irrigation. With less water, crop yields fall significantly.\n\nWhat is the likely effect of the drought on local businesses?",
+    "output": "The drought likely has a negative impact on local businesses, as reduced crop yields and lower demand for agricultural products could lead to decreased income for local farmers and subsequently reduce demand for local farm products, resulting in lower revenue for local businesses.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Great Wall of China is a series of fortifications made of stone, brick, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.\n\nQuestion: Where is the Great Wall of China located?",
+    "output": "Along an east-to-west line across the historical northern borders of China.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular social media influencer is found to have fabricated many of their posts. This revelation results in a loss of followers and trust. The influencer's business, a cosmetics brand, experiences a significant drop in sales.\n\nWhat are the direct economic effects of the influencer's fabricated posts on their brand's sales?",
+    "output": "The influencer's fabricated posts likely resulted in a direct economic effect on their brand's sales, as reduced sales due to loss of followers and trust.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A sudden increase in online shopping leads to a surge in demand for e-commerce delivery services. This triggers a chain reaction where the demand for delivery trucks increases, which leads to an increase in fuel consumption and pollution levels.\n\nWhat is the likely effect of the surge in demand for e-commerce delivery services on pollution levels in the region?",
+    "output": "The surge in demand for e-commerce delivery services is likely to lead to higher pollution levels in the region due to increased fuel consumption and vehicle emissions from the additional delivery trucks.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new, high-tech factory opens in a previously rural area. It brings in skilled workers and generates high-paying jobs. However, the influx of workers leads to a housing shortage, causing rental prices to rise and displacing long-time residents.\n\nWhat is the likely effect of the high-tech factory opening on the local community's sense of belonging?",
+    "output": "The local community's sense of belonging likely decreased due to displacement of long-time residents caused by rising rental prices and loss of community ties resulting from the influx of skilled workers and high-paying jobs.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school bans sugary drinks. Students start drinking more water instead. Parents start buying water for their children. The demand for bottled water increases, leading to a shortage in local stores.\n\nWhat is the likely effect of the school's policy on the availability of bottled water?",
+    "output": "The school's policy likely leads to a shortage in local stores due to increased demand for bottled water caused by parents buying water for their children as a substitute for sugary drinks.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A person consumes a large amount of sugary soda, which leads to a spike in blood sugar levels. This causes the body to produce more insulin. Over time, the excessive insulin production leads to insulin resistance and a higher risk of developing type 2 diabetes.\n\nWhat is the direct cause of insulin resistance in the body?",
+    "output": "The direct cause of insulin resistance in the body is the excessive insulin production due to the consumption of sugary soda, which leads to a spike in blood sugar levels.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Great Wall of China is one of the most iconic landmarks in the world. Stretching over 13,000 miles, it was built over a period of 2,000 years to protect the Chinese empire from invading armies. The wall is made of bricks, stones, and other materials and features watchtowers and signal stations. Despite its impressive size, the wall is not completely visible from space.\n\nQuestion: What is the Great Wall of China and where is it located?",
+    "output": "The Great Wall of China is an iconic landmark that stretches over 13,000 miles and was built over a period of 2,000 years to protect the Chinese empire from invading armies. It is located in China, along the country's northern border.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Taj Mahal is a mausoleum located in Agra, India. It was built by Mughal Emperor Shah Jahan in memory of his wife, Mumtaz Mahal. The Taj Mahal is considered one of the most beautiful buildings in the world and is a UNESCO World Heritage Site.\n\nQuestion: What is the Taj Mahal and where is it located?",
+    "output": "The Taj Mahal is a mausoleum located in Agra, India.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new social media app is released, promoting user-generated content. As a result, users create more posts, leading to increased engagement. The increased engagement attracts more advertisers, boosting the app's revenue.\n\nWhat is the likely impact of the social media app's user-generated content feature on its advertising revenue?",
+    "output": "The social media app's increased advertising revenue is likely due to higher engagement resulting from user-generated content, which attracts more advertisers.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new type of insecticide is introduced into a forest ecosystem. It targets a specific type of pest that has been damaging local trees. However, the insecticide also harms a certain species of bird that feeds on the pest. The bird population declines, leading to a surge in the pest population.\n\nWhat is the likely effect of the new insecticide on the local ecosystem?",
+    "output": "The new insecticide likely has a negative effect on the local ecosystem, leading to increased pest populations and reduced bird populations, which in turn negatively impacts tree health and overall ecosystem balance.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular ice cream shop increases its prices. The owner claims it's due to higher costs of raw materials. Customers initially complain, but then notice a decrease in wait times and better service.\n\nWhat is the likely effect on customer satisfaction?",
+    "output": "Customer satisfaction is likely improved due to the decrease in wait times and better service provided by the ice cream shop despite the price increase.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a prolonged drought. As a result, the reservoir water level drops critically low. The water authority implements strict rationing, which causes local farmers to reduce irrigation. With less water, crop yields fall significantly. The city council then imposes a city-wide ban on lawn watering.\n\nWhat is the likely effect of the city-wide ban on lawn watering on the city's water conservation efforts?",
+    "output": "The city-wide ban on lawn watering is likely to increase the city's water conservation efforts, as it is an additional measure to conserve water, given the existing drought conditions and reduced irrigation due to strict rationing.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a prolonged drought. As a result, the reservoir water level drops critically low. The water authority implements strict rationing, which causes local farmers to reduce irrigation. With less water, crop yields fall significantly.\n\nWhat is the likely effect of the drought on the city's reliance on imported food?",
+    "output": "The city's reliance on imported food likely increased as drought-induced crop failures led to lower local food production.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology allows for faster and more accurate weather predictions. As a result, the public is better informed about severe weather conditions.\n\nWhat is the likely effect of better weather forecasting on emergency preparedness?",
+    "output": "Better weather forecasting likely improves emergency preparedness by enabling individuals to take necessary precautions, such as seeking shelter or evacuating, based on accurate information about potential severe weather conditions.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular restaurant offers a \"free dessert\" promotion. As a result, the restaurant experiences a surge in customers. However, the dessert kitchen is small and cannot accommodate the increased demand.\n\nWhat are the potential consequences for the dessert kitchen and overall dining experience at the restaurant?",
+    "output": "The dessert kitchen may experience increased food preparation time, which could lead to shorter wait times for dessert orders and a higher overall dining experience.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study reveals a correlation between consuming coffee and improved cognitive function. This leads to an increase in coffee sales.\n\nWhat is the likely impact of the coffee consumption trend on the local coffee shop?",
+    "output": "The local coffee shop likely sees increased revenue from higher demand for coffee due to the study's positive correlation between coffee consumption and cognitive function.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A group of friends decides to start a small business together. They pool their resources and work hard to build a successful venture. Over time, they become known in the community for their hard work and generosity. As a result, their business grows, and they expand into a new location.\n\nHow does the initial group effort contribute to the business's expansion?",
+    "output": "The initial group effort contributed to the business's expansion by creating a successful venture due to their hard work and generosity, which led to the success and growth of the business.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school implements a new after-school tutoring program. Parents enroll their children, leading to a significant increase in school attendance. However, the increased number of students requires more staff, leading to budget cuts in other areas.\n\nWhat are the possible long-term effects of the new tutoring program on the school's budget?",
+    "output": "The new tutoring program could potentially have long-term effects on the school's budget, as increased staff costs and budget cuts in other areas may lead to financial strain in the long run.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular tourist destination has recently been experiencing a decline in visitors. This has led to a decrease in sales for local businesses, which has caused a rise in unemployment. Additionally, some local businesses have had to cut costs, which has resulted in reduced quality of services and products.\n\nWhat are the potential long-term effects on the local economy if the tourist destination's decline continues?",
+    "output": "The potential long-term effects on the local economy include a decrease in tourism revenue, which could lead to further decline in economic activity, as well as a rise in unemployment, reduced quality of services and products, and potential long-term damage to the local economy.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company introduces a new employee recognition program, which encourages teamwork and collaboration. As a result, employee morale improves, and they feel more valued and supported in their work.\n\nWhat is the likely effect of the new employee recognition program on employee productivity?",
+    "output": "The new employee recognition program is likely to increase employee productivity due to higher job satisfaction, focus, and motivation resulting from improved morale.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A person experiences a strong allergic reaction after consuming a specific type of food. Their doctor advises them to avoid that food and suggests a different, allergy-friendly food option.\n\nHow might this decision impact their overall well-being?",
+    "output": "The person's overall well-being may improve due to reduced exposure to allergens and a lower risk of future allergic reactions after choosing an allergy-friendly food option.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new recycling program is introduced in a city. Residents are encouraged to recycle more, which leads to reduced landfill waste. This, in turn, results in decreased costs for waste management.\n\nWhat is the most likely effect of the recycling program on the city's waste management costs?",
+    "output": "The most likely effect of the recycling program on the city's waste management costs is a decrease due to reduced landfill waste, leading to decreased costs for waste management.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new, cheaper energy source is developed, leading to increased use of electric cars. This results in a decline in gasoline sales. The oil industry invests in alternative technologies and begins producing renewable fuels.\n\nHow do these changes impact the oil industry in the long term?",
+    "output": "The oil industry is likely to transition to renewable fuels in the long term as a result of the shift in demand from gasoline to electric car usage, which decreases demand for oil and forces the industry to invest in alternative technologies.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a prolonged drought. As a result, the reservoir water level drops critically low. The water authority implements strict rationing, which causes local farmers to reduce irrigation. With less water, crop yields fall significantly.\n\nWhat are the potential environmental consequences of the reduced crop yields due to the drought?",
+    "output": "The potential environmental consequences of reduced crop yields due to the drought may include increased carbon dioxide levels and potential global warming due to reduced plant growth and oxygen production.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study finds that a certain type of dietary supplement can boost memory function. A fitness center starts offering a program focused on improving memory and brain function. A local newspaper publishes a story about the supplement's benefits.\n\nWhat is the most likely cause of the increase in the fitness center's membership?",
+    "output": "The most likely cause of the increase in the fitness center's membership is the awareness and interest in memory improvement sparked by the new study on the dietary supplement, which led to a program being offered and a newspaper article being published, attracting more people to enroll in the fitness center's program.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology improves energy efficiency in homes. Homeowners reduce their utility bills. They save money, which they can then use for other expenses.\n\nWhat is the likely effect of the new technology on homeowners' spending habits?",
+    "output": "The new technology likely encourages homeowners to spend more on other expenses, as they have saved money due to reduced utility bills.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A community experiences a sudden increase in the number of stray dogs. The local animal shelter receives more requests for adoption. Volunteers at the shelter are overwhelmed with the demand for their services.\n\nWhat are the possible causes for the increase in stray dogs in the community?",
+    "output": "Possible causes for the increase in stray dogs in the community include a sudden influx of stray animals, which leads to more requests for adoption at the animal shelter, causing the volunteers to become overwhelmed with their workload, which could potentially lead to burnout.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A government imposes a new tax on sugary drinks. Initially, consumers may switch to less sugary alternatives or reduce consumption. However, health advocates argue that this could lead to a decline in overall public health.\n\nWhat might be the long-term effects on public health if sugary drink consumption drops significantly?",
+    "output": "Public health could potentially decline if sugary drink consumption drops significantly, as less sugary drinks could lead to a decline in public health, prompting health advocates' concern.\nYou are an AI assistant that follows instruction extremely well. Help as much as you can.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system. It stretches over 2,300 kilometers and is composed of over 2,900 individual reefs. The reef supports an enormous diversity of marine life and is listed as a UNESCO World Heritage Site.\n\nQuestion: What is the Great Barrier Reef known for?",
+    "output": "It is known for its enormous diversity of marine life.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school implements a new anti-bullying program. The program emphasizes empathy and kindness, resulting in fewer instances of bullying. As a consequence, students feel more included and less anxious about their interactions with peers.\n\nHow does the anti-bullying program likely affect the mental health of students?",
+    "output": "The anti-bullying program likely improves the mental health of students by reducing instances of bullying, increasing feelings of inclusion, and alleviating anxiety, leading to better mental well-being.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A community's recycling program begins to fail. Residents no longer recycle, leading to an increase in waste. This, in turn, causes the local landfill to overflow, leading to the closure of the landfill and the need for residents to drive longer distances to dispose of their waste.\n\nWhat is the likely effect on air quality in the community?",
+    "output": "The community's air quality is likely to deteriorate due to increased emissions from waste transportation caused by longer distances residents have to drive to dispose of their waste.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "In ancient Greece, the philosopher Socrates is known for his teachings on philosophy and ethics. He is often depicted as a wise and patient man who encouraged his students to question and explore their own beliefs. Socrates believed that true knowledge could be gained through the process of critical thinking and self-reflection.\n\nQuestion: Who is Socrates and what did he teach?",
+    "output": "Socrates is an ancient Greek philosopher who taught his students to question and explore their own beliefs through the process of critical thinking and self-reflection.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology is introduced that improves crop yields significantly. The technology company invests heavily in marketing and advertising.\n\nHow might the increased crop yields impact local farmers?",
+    "output": "Local farmers are likely to benefit from the increased crop yields, allowing them to invest in new equipment or expand their operations due to improved yields.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a prolonged drought. As a result, the reservoir water level drops critically low. The water authority implements strict rationing, which causes local farmers to reduce irrigation. With less water, crop yields fall significantly. Additionally, the reduced water availability affects local fish populations, leading to a decline in the recreational fishing industry.\n\nWhat are the cumulative economic impacts on the city's tourism sector?",
+    "output": "The cumulative economic impacts on the city's tourism sector are likely reduced revenue for tourism businesses, decreased job opportunities, and lower demand for tourism activities due to lower food production and reduced resources available for tourism activities.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The International Space Station (ISS) is a habitable artificial satellite in low Earth orbit. It is the largest spacecraft in space, and is continuously occupied by astronauts from multiple countries. The ISS is the largest artificial satellite in space, and has been continuously occupied since November 2000.\n\nQuestion: What is the International Space Station?",
+    "output": "A habitable artificial satellite in low Earth orbit, the largest artificial satellite in space and has been continuously occupied since November 2000.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new educational app is developed. It provides personalized learning experiences for students. Parents become increasingly concerned about their children's screen time and potential impact on their well-being.\n\nWhat are the potential long-term effects of the app on children's screen time habits?",
+    "output": "The new educational app could potentially lead to a shift in children's screen time habits, as increased awareness and discussion among parents about the impact on well-being may encourage them to monitor and regulate their children's screen time.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Eiffel Tower, standing tall in Paris, France, is an iconic symbol of French culture and engineering. It was designed by Gustave Eiffel and completed in 1889 for the World's Fair. The tower stands 324 meters tall and was originally intended to be a temporary structure. However, it has since become a permanent fixture in the Parisian skyline.\n\nQuestion: Where is the Eiffel Tower located?",
+    "output": "In Paris, France.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A sudden increase in rainfall causes a river to overflow its banks. The floodwaters cause extensive damage to nearby farmland. The affected farmers apply for flood insurance.\n\nWhat are the potential effects of the flood on the insurance industry?",
+    "output": "The potential effect of the flood on the insurance industry is an increase in demand for flood insurance, which could lead to higher insurance premiums due to the higher number of claims and losses.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city implements a strict smoking ban in public spaces. As a result, the local hospital sees an increase in patients with respiratory illnesses. Many smokers switch to e-cigarettes, which are less harmful.\n\nWhat is the likely effect of the smoking ban on respiratory illness rates in the city?",
+    "output": "The smoking ban is likely to decrease respiratory illness rates in the city due to the increased awareness of respiratory risks and the switch to less harmful e-cigarettes by many smokers.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A study shows a correlation between high sugar consumption and increased risk of heart disease. People begin to reduce their sugar intake, which leads to lower blood sugar levels. Lower blood sugar levels are linked to better blood vessel health and lower blood pressure, which in turn lowers the risk of heart disease.\n\nWhat is the likely effect of reduced sugar consumption on heart health?",
+    "output": "Reduced sugar consumption likely improves heart health by lowering blood sugar levels and blood pressure, which improves blood vessel health and reduces the risk of heart disease.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city implements a strict curfew for residents after midnight. As a result, nightlife venues and bars close early, but residents have to adjust their sleep schedules to accommodate the new routine.\n\nWhat are the potential social implications of the strict curfew on the city's nightlife?",
+    "output": "The strict curfew may lead to potential stress or inconvenience for residents who prefer staying up late as they have to adjust their sleep schedules to accommodate the new routine, altering their social habits and routines.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city implements a new recycling program, which encourages residents to sort their waste. The program is successful, and waste management costs decrease.\n\nHow might the decrease in waste management costs impact the city's budget?",
+    "output": "The city's budget might be positively impacted by the decrease in waste management costs due to the successful recycling program.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "In 1972, the United States conducted the Operation Igloo White, a military operation that aimed to protect military personnel and equipment from detection by enemy forces. The operation involved the use of artificial ice formations, known as \"icebergs,\" to create an artificial barrier that would obscure the movement of military vehicles and aircraft. The operation was successful in protecting the military from enemy attacks and is considered a significant achievement in the field of military engineering.\n\nQuestion: What was the purpose of Operation Igloo White?",
+    "output": "To protect military personnel and equipment from detection by enemy forces.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company implements a new technology to automate its production process. However, this leads to layoffs in the workforce.\n\nWhat are the potential long-term effects of the new technology on the local community?",
+    "output": "The potential long-term effects of the new technology include reduced consumer spending, decreased tax revenue, and increased poverty rates in the local community, as laid-off workers struggle to find new employment opportunities.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a prolonged drought. As a result, the reservoir water level drops critically low. The water authority implements strict rationing, which causes local farmers to reduce irrigation. With less water, crop yields fall significantly.\n\nWhat is the likely effect of the drought on food availability in the region?",
+    "output": "Food availability in the region likely decreased due to lower crop yields caused by reduced irrigation from drought-induced water rationing.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular restaurant chain introduces a new loyalty program that offers discounts for frequent visitors. As a result, customers visit the restaurant more often, leading to increased sales and profits for the chain.\n\nWhat is the likely effect of the loyalty program on the restaurant chain's profitability?",
+    "output": "The restaurant chain's profitability is likely to increase due to higher sales from frequent customer visits caused by the loyalty program.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new tech startup develops a revolutionary app that allows users to share their location in real-time. This app becomes popular among users, leading to increased data usage on mobile networks.\n\nWhat is the likely impact on mobile network congestion?",
+    "output": "Mobile network congestion is likely due to increased data usage on mobile networks resulting from the popularity of a revolutionary app allowing users to share their location in real-time.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology reduces the cost of solar panel installation. This leads to increased demand for solar panels, driving up prices and leading to overproduction. Eventually, the market becomes saturated, and prices begin to fall.\n\nWhat is the likely long-term effect of the increased demand for solar panels on the market for solar panels?",
+    "output": "The long-term effect of the increased demand for solar panels on the market for solar panels is likely to be a cycle of rising prices followed by falling prices as the market adjusts to the new demand level.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company reduces its workforce by laying off employees. This results in a temporary increase in individual unemployment benefits. However, the company's reduced costs lead to higher profits, which allows it to invest in employee training programs.\n\nHow does the initial workforce reduction impact long-term employee retention and company culture?",
+    "output": "The initial workforce reduction impacts long-term employee retention and company culture through improved employee retention, as the investment in training programs enhances the work environment and job satisfaction, leading to a more stable and positive company culture.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Great Wall of China, one of the most famous landmarks in the world, stretches over 13,000 miles long. It was built by different dynasties over a period of over 2,000 years to protect China from invasions. The wall is made of various materials, including brick, tamped earth, stone, and wood. It is an impressive engineering feat and a testament to the ingenuity and strength of the Chinese people.\n\nQuestion: What is the Great Wall of China known for?",
+    "output": "The Great Wall of China is known for being the world's most famous landmark and being the longest wall in the world. It stretches over 13,000 miles long and was built to protect China from invasions. The wall is made of various materials, including brick, tamped earth, stone, and wood.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city introduces a new recycling program, which significantly reduces the amount of waste sent to landfills. This leads to lower disposal fees for businesses, resulting in cost savings. As a result, the city experiences less pollution due to decreased landfill activity.\n\nHow does the new recycling program reduce pollution in the city?",
+    "output": "The new recycling program reduces pollution in the city by decreasing landfill use, which is a major source of pollution.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The ancient city of Pompeii, located in present-day Italy, was destroyed by the eruption of Mount Vesuvius in 79 AD. The city was preserved by the volcanic ash that covered it, allowing archaeologists to study the life of the Romans in the first century AD.\n\nQuestion: What event led to the preservation of Pompeii?",
+    "output": "The eruption of Mount Vesuvius in 79 AD.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular video game franchise releases a new, highly anticipated sequel. The game gains significant popularity among gamers, leading to a surge in online sales and a shortage of physical copies in stores.\n\nWhat are the potential effects on game retailer profits?",
+    "output": "Retailer profits may increase if they can secure more inventory to meet the higher demand for physical copies of the game following its release and surge in online sales.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Amazon Rainforest, covering parts of nine countries in South America, is the largest tropical rainforest on Earth. It spans over 5.5 million square kilometers and is home to an estimated 400 billion individual trees. The Amazon plays a vital role in regulating the planet's climate by absorbing carbon dioxide from the atmosphere.\n\nQuestion: What role does the Amazon Rainforest play in regulating the planet's climate?",
+    "output": "It absorbs carbon dioxide from the atmosphere.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A student consistently misses assignments due to procrastination. As a result, they struggle to keep up with the workload and begin to fall behind. The teacher notices their declining performance and asks the student to form a study group to catch up.\n\nWhat might be the likely effect of the student's behavior on their academic progress?",
+    "output": "The student's academic progress is likely to improve due to the intervention of the teacher and the formation of a study group.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A factory releases toxic chemicals into a river, contaminating the water supply. Residents experience health issues. A local politician campaigns against the factory, leading to its closure.\n\nWhat is the chain of causation between the factory's release of toxic chemicals and the politician's campaign?",
+    "output": "The factory's release of toxic chemicals led to residents' health issues \u2192 increased public awareness \u2192 advocacy efforts \u2192 political pressure \u2192 factory closure. This chain of causation resulted in the closure of the factory.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new health policy mandates regular COVID-19 testing for all citizens. This leads to increased demand for testing centers, resulting in long wait times. Patients then seek alternative testing methods, such as home kits.\n\nWhat is the likely impact on the availability of testing centers and the overall effectiveness of the health policy?",
+    "output": "The new health policy likely results in reduced efficiency at testing centers due to long wait times and reduced effectiveness due to patients seeking alternative methods, despite increased demand for testing centers.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a prolonged drought. As a result, the reservoir water level drops critically low. The water authority implements strict rationing, which causes local farmers to reduce irrigation. With less water, crop yields fall significantly.\n\nWhat are the potential long-term effects on the local economy, particularly in the agriculture sector?",
+    "output": "The potential long-term effects on the local economy, particularly in the agriculture sector, include increased food prices, economic impact on consumers and farmers, possible government intervention (fiscal or monetary policies), and changes in the local economy such as reliance on imports or shifts in consumer behavior.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology reduces the time needed for manual labor tasks. As a result, the demand for manual labor decreases, leading to layoffs.\n\nHow does the reduction in manual labor jobs affect the local economy?",
+    "output": "The reduction in manual labor jobs affects the local economy by leading to decreased economic activity due to reduced spending caused by layoffs and lower consumer spending.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study reveals that high levels of air pollution can lead to respiratory issues. Researchers find that children living in areas with high pollution are more likely to develop asthma.\n\nWhat is the primary factor contributing to the increased asthma incidence among children living in areas with high pollution?",
+    "output": "The primary factor contributing to the increased asthma incidence among children living in areas with high pollution is the increased risk of asthma resulting from respiratory issues caused by high air pollution levels.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new species of bird is introduced to an island, which has no native predators. The population of the bird increases rapidly due to the absence of natural enemies. However, as the population grows, it starts to consume the native plant species, leading to a decline in those plants.\n\nWhat is the likely consequence of the introduced bird population's consumption of native plants on the island's biodiversity?",
+    "output": "The introduced bird population's consumption of native plants is likely to lead to a decline in biodiversity on the island, as the native plant species may be negatively impacted and the ecosystem's balance may be disrupted.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular restaurant chain experiences a surge in orders online during the pandemic. The surge overwhelms the kitchen staff, leading to delayed delivery times. As a result, customers receive their orders late.\n\nWhat is the likely effect of the increased online orders on the restaurant's delivery service?",
+    "output": "The restaurant's delivery service is likely to experience delayed delivery times due to the surge in online orders overwhelming the kitchen staff.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a prolonged drought. As a result, the reservoir water level drops critically low. The water authority implements strict rationing, which causes local farmers to reduce irrigation. With less water, crop yields fall significantly.\n\nWhat is the likely effect of the drought on the availability of crops in the region?",
+    "output": "The availability of crops in the region likely decreased due to lower crop yields caused by reduced irrigation from drought-induced water rationing.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new policy requires all employees to take paid sick leave. Workers become more cautious about getting sick, leading to fewer absences. However, this policy reduces the company's overall productivity.\n\nWhat is the likely effect of the policy on employee health and the company's bottom line?",
+    "output": "The policy likely reduces employee health as employees become more cautious and takes a toll on the company's bottom line due to reduced productivity.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company increases its advertising budget. This leads to a rise in product sales. Consumers notice the increased sales and, without realizing the causal link, attribute the sales growth to the product quality. As a result, the company receives positive reviews and is perceived as a high-quality brand.\n\nWhat is the direct impact of increased advertising on brand perception?",
+    "output": "Increased advertising leads to higher product sales \u2192 positive reviews \u2192 perceived as high-quality brand.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a prolonged drought. As a result, the reservoir water level drops critically low. The water authority implements strict rationing, which causes local farmers to reduce irrigation. With less water, crop yields fall significantly.\n\nWhat are the direct economic effects on the local farmers?",
+    "output": "Local farmers likely see decreased revenue due to lower crop yields resulting from the combination of drought, water rationing, and reduced irrigation.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new law bans smoking in all indoor public places. As a result, indoor air quality improves, leading to less respiratory illness among non-smokers. The trend of smoking in the population decreases as a consequence.\n\nWhat is the likely effect of the ban on smoking in public places on respiratory health in non-smokers?",
+    "output": "The ban on smoking in public places is likely to have a positive effect on respiratory health in non-smokers by improving indoor air quality and leading to less respiratory illness.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology increases the efficiency of solar panels. As a result, the cost of solar power decreases significantly. In response, homeowners switch to solar energy, leading to a rise in demand for solar panels.\n\nWhat is the likely effect of the decrease in solar power prices on the demand for solar panels?",
+    "output": "The likely effect of the decrease in solar power prices is an increase in demand for solar panels as homeowners switch to this renewable energy source in response to lower costs.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology company opens in a small town. The influx of tech workers boosts the local economy. Local businesses notice an uptick in spending and increase their prices to capitalize on the situation. In turn, the higher prices discourage new customers and lead to a decrease in overall revenue.\n\nHow does the introduction of a new tech company affect the local economy in the long run?",
+    "output": "The introduction of a new tech company may have a positive short-term effect on the local economy by boosting it with the influx of tech workers. However, the long-term effect may be mixed, as the increased prices might discourage new customers and ultimately decrease overall revenue.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study suggests a correlation between prolonged exposure to blue light from electronic devices and sleep disorders. People start using night mode on their phones and computers. However, they still feel tired and struggle to fall asleep.\n\nWhat is the likely effect of the blue light exposure on sleep quality?",
+    "output": "The likely effect of the blue light exposure on sleep quality is that it can lead to disrupted circadian rhythm and sleep disorders, but using night mode on electronic devices can improve sleep quality by reducing blue light exposure.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Northern Lights, also known as the Aurora Borealis, are a natural light display in the night sky that occurs in the polar regions. They are caused by the collision of solar wind particles with the Earth's magnetic field. The display can vary in color and shape, with green being the most common, but also appearing red, pink, and purple.\n\nQuestion: What causes the Northern Lights?",
+    "output": "The Northern Lights, or Aurora Borealis, are caused by the collision of solar wind particles with the Earth's magnetic field.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new species of plant is introduced into an ecosystem. The plant has no natural predators and quickly spreads throughout the area. As a result, the native species of the same plant are outcompeted, leading to a decline in their population.\n\nWhat is the likely impact of the introduction of a new plant species with no natural predators on the native plant population in the ecosystem?",
+    "output": "The introduction of a new plant species with no natural predators is likely to have a negative impact on the native plant population, as the new species will outcompete and reduce their numbers due to lack of natural predators and lack of competition.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A person learns to play a musical instrument. They practice daily and eventually join a band. The band gains popularity, and the person's career as a musician takes off.\n\nWhat are the potential causes of the musician's career success?",
+    "output": "The musician's career success is likely due to learning to play an instrument, daily practice, skill development, joining a band, and gaining popularity.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A person's diet includes a high amount of processed foods. They develop allergies to common food allergens.\n\nHow does the diet contribute to the development of food allergies?",
+    "output": "The diet contributes to the development of food allergies due to the increased exposure to potential allergens in processed foods.\nYou are an AI assistant that helps people find information. User will you give you a question. Your task is to answer as faithfully as you can. While answering think step-by-step and justify your answer.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study reveals that a certain vitamin significantly lowers the risk of heart disease. People start taking the vitamin, leading to a rise in demand for it. The company producing the vitamin raises its prices, causing some customers to switch to a cheaper alternative.\n\nWhat are the potential long-term consequences of the rise in demand for the vitamin and subsequent price increase?",
+    "output": "The rise in demand for the vitamin and subsequent price increase could lead to potential long-term consequences such as:\n1. An increase in the company's revenue from the higher prices.\n2. Customers switching to cheaper alternatives, potentially affecting the company's market share.\n3. The company developing a more affordable version of the vitamin to retain customers and maintain market share.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A study finds that students who study in a quiet environment perform better on tests. The quiet environment leads to reduced distraction and better focus. Students who study in a noisy environment, however, are more easily distracted, leading to lower test scores.\n\nWhat is the likely effect of studying in a noisy environment on academic performance?",
+    "output": "Studying in a noisy environment is likely to have a negative impact on academic performance due to increased distraction leading to lower focus and reduced academic performance.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a prolonged drought. As a result, the reservoir water level drops critically low. The water authority implements strict rationing, which causes local farmers to reduce irrigation. With less water, crop yields fall significantly.\n\nWhat is the likely effect of the drought on food availability in the region?",
+    "output": "Food availability in the region likely decreased due to lower crop yields caused by reduced irrigation from drought-induced water rationing.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a severe winter storm. The local hospital has to divert patients to other facilities due to overwhelmed capacity. As a result, traffic congestion around the hospital increases. Meanwhile, the city's public transportation system is temporarily suspended due to the storm.\n\nWhat is the likely effect of the winter storm on the local community's access to healthcare?",
+    "output": "The local community's access to healthcare may be reduced due to increased traffic congestion around the hospital caused by patient diversion from the overwhelmed capacity during a severe winter storm.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city's population growth leads to more demand for housing. Local government increases building permits, but developers delay construction. As a result, housing prices rise rapidly.\n\nWhat is the likely impact on the real estate market in the city?",
+    "output": "The real estate market in the city is likely to experience a rapid rise in housing prices due to the shortage of housing supply caused by delayed construction following the rise in building permits and population growth.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A study finds that people who exercise regularly have lower blood pressure. Additionally, a survey indicates that exercising outdoors is more popular than indoors. The survey also shows that indoor exercise equipment is less expensive than outdoor equipment.\n\nWhat is the likely reason for the correlation between exercising outdoors and lower blood pressure?",
+    "output": "The likely reason for the correlation between exercising outdoors and lower blood pressure is that outdoor exercise is typically more strenuous, leading to greater blood pressure reduction compared to indoor exercise.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology improves the efficiency of solar panels. As a result, the cost of solar energy drops significantly. Solar energy becomes more competitive with traditional energy sources, leading to increased adoption.\n\nWhat are the likely effects on the global energy market as a whole?",
+    "output": "The global energy market is likely to become more diversified and cleaner as a result of the shift towards solar energy due to increased adoption and reduced dependence on fossil fuels.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study reveals that people who consume a specific type of fish have a lower risk of heart disease. As a result, consumers start buying more of this fish. However, overfishing this fish species leads to a decline in its population, which in turn raises the cost of this fish.\n\nWhat is the likely effect of the initial rise in fish consumption on the availability of the fish?",
+    "output": "The initial rise in fish consumption likely led to an increase in demand for this fish, which in turn caused overfishing and a decline in its population, resulting in a higher cost for this fish.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A student is late for a test due to traffic congestion on the morning commute. The student ends up not performing well, which leads to disappointment and frustration.\n\nWhat is the likely effect of the traffic congestion on the student's test performance?",
+    "output": "The traffic congestion likely led to lower test performance for the student, causing disappointment and frustration due to decreased preparation time and a late arrival.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular tourist attraction is flooded due to a storm. The affected area becomes inaccessible to visitors. The local tourism board initiates a travel advisory, warning tourists to stay indoors. Consequently, the number of tourists visiting the attraction decreases.\n\nWhat is the likely effect of the storm on the local tourism industry?",
+    "output": "The local tourism industry is likely to experience a decline in revenue due to the decreased number of tourists visiting the flooded attraction.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The solar system is composed of eight planets orbiting the Sun. The inner planets are Mercury, Venus, Earth, and Mars, while the outer planets are Jupiter, Saturn, Uranus, and Neptune. Each planet has a unique composition and characteristics, ranging from rocky and dense to gaseous and large. The Sun is the central star of the solar system, providing energy to all the planets and their moons through its radiation.\n\nQuestion: Which type of planets are located in the inner and outer regions of the solar system?",
+    "output": "The inner planets are rocky and dense, while the outer planets are gaseous and large.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company decides to implement a new employee wellness program. As a result, employee health insurance premiums drop. The company invests in employee training and development, which leads to improved job performance and employee retention.\n\nHow might the employee wellness program impact the company's bottom line?",
+    "output": "The employee wellness program may impact the company's bottom line by saving money on health insurance costs, investing in employee training and development, improving job performance and employee retention, and ultimately leading to increased productivity and efficiency, which can result in higher revenue and profits.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study shows a correlation between high sugar intake and increased risk of heart disease. As a result, a local fast-food restaurant decides to reformulate its menu to reduce sugar content.\n\nWhat is the likely effect of the restaurant's reformulation on its customers' health?",
+    "output": "The restaurant's reformulation likely reduces customers' risk of heart disease by decreasing their sugar intake.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular park experiences an influx of visitors during summer months. To accommodate the demand, the park installs more trash bins. This leads to increased litter, prompting park staff to enforce stricter cleanliness rules.\n\nWhat are the potential negative impacts on the park's environment and visitor experience?",
+    "output": "The potential negative impacts on the park's environment and visitor experience include increased litter, which may detract from the overall cleanliness and beauty of the park, and stricter cleanliness rules that may create a less pleasant atmosphere for visitors.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new law is passed that increases taxes on luxury items. As a result, people stop buying expensive cars, which leads to a decline in sales at car dealerships.\n\nHow does the tax increase on luxury items affect the car industry?",
+    "output": "The tax increase on luxury items likely leads to a decline in the car industry due to reduced demand for luxury cars and decreased sales at car dealerships.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company adopts a strict cybersecurity policy. As a result, user access to sensitive data is restricted. The IT department increases training on secure data handling, leading to fewer data breaches.\n\nWhat is the likely effect of the strict cybersecurity policy on the company's data security posture?",
+    "output": "The strict cybersecurity policy likely improves the company's data security posture due to restricted user access and increased training on secure data handling, leading to fewer data breaches.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study shows a correlation between high sugar intake and increased risk of heart disease. The study concludes that reducing sugar consumption can lead to healthier hearts.\n\nWhat factors contribute to the relationship between high sugar intake and heart disease?",
+    "output": "The relationship between high sugar intake and heart disease is likely due to high sugar intake \u2192 inflammation in the body \u2192 oxidative stress \u2192 damaged cells \u2192 inflammation in arteries \u2192 plaque formation \u2192 narrowed arteries \u2192 increased risk of heart disease.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The solar system consists of the Sun and all the objects that orbit around it. These objects include planets, dwarf planets, asteroids, comets, and other celestial bodies. The Sun is the center of the solar system and is the most massive object in it. It is a star and produces energy through nuclear fusion in its core.\n\nQuestion: What is the center of the solar system and what is it known for?",
+    "output": "The center of the solar system is the Sun, which is known for producing energy through nuclear fusion in its core.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new app allows users to earn virtual coins for completing tasks. As users earn coins, they can purchase in-game items. However, the app also collects users' location data.\n\nWhat are the potential consequences of this app's location data collection?",
+    "output": "The potential consequences of this app's location data collection could be that users' privacy is at risk, as their location data may be shared with third parties, potentially leading to data breaches or unauthorized access to sensitive information.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study indicates that consuming a certain type of seafood has been linked to an increased risk of heart disease. A health advocacy group issues a warning to consumers. The public begins to avoid this seafood type.\n\nWhat are the potential indirect effects of this seafood avoidance on public health?",
+    "output": "Potential indirect effects of this seafood avoidance on public health include a weakened immune system and increased susceptibility to illness due to reduced nutrient intake and weakened immune system.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The International Space Station (ISS) is a collaborative project between multiple space agencies, including NASA, Roscosmos, JAXA, ESA, and CSA. It is a habitable artificial satellite in low Earth orbit and serves as a microgravity and space environment research laboratory. The ISS has been continuously occupied since November 2000 and has hosted several expeditions.\n\nQuestion: Who collaborates on the International Space Station?",
+    "output": "NASA, Roscosmos, JAXA, ESA, and CSA collaborate on the International Space Station.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A country imposes strict environmental regulations on factories. The regulations require them to reduce greenhouse gas emissions. Factories invest in new technology, which increases their production costs.\n\nWhat is the likely long-term effect of these regulations on the country's manufacturing industry?",
+    "output": "The long-term effect of these regulations may be a decrease in manufacturing output as factories invest in new technology to reduce emissions, which increases their production costs.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new policy increases funding for public parks. As a result, the parks become cleaner and safer, and locals spend more time there. However, this leads to overcrowding during peak hours, causing traffic congestion in the surrounding neighborhood.\n\nWhat are the initial impacts of the policy on the local community?",
+    "output": "The initial impacts of the policy include cleaner and safer parks, increased foot traffic, and traffic congestion in the surrounding neighborhood due to increased park usage.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Amazon Rainforest, located in South America, is the largest tropical rainforest in the world. It spans over 6.7 million square kilometers and is home to a vast array of plant and animal species. The Amazon is known for its biodiversity and is considered the \"lungs of the Earth\" due to its role in absorbing carbon dioxide from the atmosphere.\n\nQuestion: What is the Amazon Rainforest's role in the Earth's ecosystem?",
+    "output": "The Amazon Rainforest is the \"lungs of the Earth\" due to its role in absorbing carbon dioxide from the atmosphere.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "In the 1990s, a new type of computer was developed that was more affordable and easier to use. This new computer, called a personal computer, became popular among households and businesses. Personal computers were used for a variety of purposes, including word processing, data storage, and video games. The personal computer revolutionized the way people communicate and work, and it has been a significant part of modern society ever since.\n\nQuestion: When did the personal computer become popular?",
+    "output": "In the 1990s.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Taj Mahal, a mausoleum in Agra, India, was built by Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal. It is considered one of the world's most beautiful buildings and is a UNESCO World Heritage Site.\n\nQuestion: What is the Taj Mahal and where is it located?",
+    "output": "The Taj Mahal is a mausoleum in Agra, India, built by Mughal Emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new park is built in a city, leading to increased foot traffic and spending in local shops. However, some residents argue that the park detracts from their property values.\n\nHow might the park's effect on local businesses be affected by local residents' concerns about property values?",
+    "output": "The park's effect on local businesses may be negatively impacted by local residents' concerns about property values, as they may be less likely to support the park, leading to reduced customer traffic and decreased revenue for local businesses.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a prolonged drought. As a result, the reservoir water level drops critically low. The water authority implements strict rationing, which causes local farmers to reduce irrigation. With less water, crop yields fall significantly.\n\nWhat is the likely effect of the drought on food availability in the region?",
+    "output": "Food availability in the region likely decreased due to lower crop yields caused by reduced irrigation from drought-induced water rationing.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A country experiences a severe flu outbreak. Due to limited medical resources, those with mild symptoms are advised to self-isolate at home. As a result, those who continue to work spread the virus more widely.\n\nWhat is the likely impact on the economy of the country?",
+    "output": "The country's economy is likely to experience a decrease in productivity and revenue due to fewer people working and lower economic activity resulting from the flu outbreak and self-isolation measures.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a significant increase in rainfall. As a result, the river levels rise rapidly, causing flooding. The city's drainage system struggles to manage the increased volume, leading to waterlogged streets and parks.\n\nWhat is the likely effect of the heavy rainfall on the city's infrastructure and residents?",
+    "output": "The city's infrastructure and residents likely suffer from waterlogged streets and parks due to the drainage system struggling to manage increased river levels caused by heavy rainfall.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular tourist destination experiences a sudden decrease in visitors. The local economy relies heavily on tourism. This leads to a decline in business for local hotels and restaurants. As businesses suffer, unemployment rates rise among the local population.\n\nWhat are the potential long-term effects of the decline in tourism on the local economy?",
+    "output": "The potential long-term effects of the decline in tourism on the local economy include a recession or economic downturn due to job losses and reduced spending.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school's budget is cut significantly. As a result, the school's art program is eliminated. Without art, students develop creativity and confidence, which is beneficial for their overall development.\n\nWhat are the likely indirect effects on students' academic performance?",
+    "output": "Students' academic performance may be indirectly affected due to reduced creativity and confidence resulting from the elimination of the art program, which has potential long-term negative effects.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new law requires all cars to have a recycling program. This leads to increased demand for eco-friendly products, which encourages companies to invest in research and development of renewable materials. Eventually, this creates jobs in the renewable materials sector.\n\nWhat are the long-term effects of the new law on the economy?",
+    "output": "The long-term effects of the new law are likely to include increased economic growth, diversification, and job creation in the renewable materials sector due to the resulting demand for eco-friendly products and investments in renewable materials research and development.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A government introduces a new tax on carbon emissions. As a result, companies switch to cleaner production methods. However, the new methods increase labor costs, leading to job losses in the industry.\n\nWhat are the long-term effects of the new tax on carbon emissions on the labor market?",
+    "output": "The long-term effects of the new tax on carbon emissions on the labor market include higher labor costs, which can lead to job losses in the industry.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A country increases its military spending. As a result, it invests in advanced technology for better weaponry and defense capabilities. The improved technology leads to better national security and a decrease in domestic crime rates.\n\nWhat are the likely long-term effects of increased military spending on the country's economy?",
+    "output": "The likely long-term effects of increased military spending on the country's economy include potential economic growth from financial savings due to reduced law enforcement costs and improved national security leading to a decrease in domestic crime rates.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A person exercises regularly, leading to improved cardiovascular health. Better cardiovascular health reduces their risk of heart disease, a leading cause of mortality. Studies show that individuals with a lower risk of heart disease tend to live longer.\n\nWhat is the direct impact of regular exercise on life expectancy?",
+    "output": "Regular exercise directly impacts life expectancy by improving cardiovascular health, which reduces the risk of heart disease and extends lifespan.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study shows that consuming blueberries daily can significantly boost brain function. A food company launches a marketing campaign to promote blueberries as a cognitive enhancer.\n\nHow might this marketing campaign impact public awareness and adoption of blueberry consumption for cognitive benefits?",
+    "output": "The marketing campaign is likely to increase public awareness and adoption of blueberry consumption for cognitive benefits due to the new study's findings.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company introduces a new employee benefits program. Employees feel more valued, which boosts morale. With higher morale, productivity improves, leading to more customer satisfaction.\n\nWhat is the likely impact of the new employee benefits program on customer satisfaction?",
+    "output": "The new employee benefits program likely leads to higher customer satisfaction due to improved morale and productivity, resulting in better customer service.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company implements a new employee wellness program. This leads to increased productivity and job satisfaction, resulting in better performance.\n\nWhat is the likely outcome of this wellness program on the company's performance?",
+    "output": "The company's performance is likely to improve due to increased employee productivity, higher job satisfaction, and better performance resulting from the new wellness program.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company implements a strict dress code policy. As a result, employees feel more confident and productive. They also start to dress in a more professional manner outside of work hours.\n\nWhat is the likely effect of the dress code policy on employee attire outside of work?",
+    "output": "Employees' attire outside of work likely became more professional due to the dress code policy, as it led to increased professional appearance and confidence.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A group of friends goes hiking in the mountains. They come across a clearing with a large boulder blocking the path. One friend carries the boulder out of the way, making it easier for others to pass.\n\nWhat is the direct impact of the boulder being removed on the group's hiking experience?",
+    "output": "The direct impact of the boulder being removed is that it improves the group's hiking experience by making it easier for all members to pass through the clearing.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school implements a new after-school program focused on community service. The program encourages students to volunteer at local non-profits, fostering a sense of civic responsibility. As a result, the non-profits see an increase in volunteers, leading to improved programs and services for the community.\n\nWhat is the likely effect of the after-school program on the non-profit organizations' services?",
+    "output": "The new after-school program is likely to have a positive impact on non-profit organizations' services as it leads to improved quality and efficiency through increased volunteer involvement and hands-on support.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school introduces a new homework policy, limiting screen time to 2 hours per day. Parents grumble about it, but the school claims it's for better academic performance.\n\nHow might this policy affect student sleep quality?",
+    "output": "This policy might lead to better sleep quality for students as they have less screen time and more time for physical activity or other activities, which can help them fall asleep earlier.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new social media platform gains popularity rapidly. Users share and like content, causing a viral trend. Influencers join the trend, leading to more content creation.\n\nWhat is the likely impact on content creators and influencers on the platform?",
+    "output": "The likely impact on content creators and influencers on the platform is increased content creation, as they join the viral trend and are encouraged to produce more content by the popularity of the platform and the viral trend.\nYou are an AI assistant that follows instruction extremely well. Help as much as you can.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new vaccine is developed that significantly reduces the spread of a highly contagious virus. However, it takes time to manufacture and distribute the vaccine to the entire population. During this period, the virus continues to spread and infects many people.\n\nWhat is the potential impact on the population's health status before the vaccine is fully distributed?",
+    "output": "The potential impact on the population's health status before the vaccine is fully distributed is an increase in the number of infections and a higher disease burden due to continued virus spread while the vaccine is being manufactured and distributed.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology reduces the cost of solar panel production. This leads to an increase in the number of solar panel installations. As a result, solar energy becomes more competitive with traditional energy sources. The government then subsidizes solar energy production to encourage its adoption.\n\nWhat is the likely long-term impact of this technological advancement on the global energy market?",
+    "output": "The long-term impact of this technological advancement on the global energy market is a shift towards renewable energy production and consumption, as more solar panel installations due to lower costs lead to competitive solar energy, encouraging government subsidies and adoption.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular tech startup introduces a new innovative product, which quickly gains market traction. As a result, the company experiences exponential growth in revenue and hiring new employees.\n\nWhat are the direct economic effects of the tech startup's innovative product on the company?",
+    "output": "The direct economic effects of the tech startup's innovative product on the company include higher revenue, business growth, and hiring new employees due to the increased market traction it generates.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology company is launching a revolutionary product. However, due to a manufacturing error, the initial batch of products has defects. The company decides to recall the defective products and fix the issue. As a result, the company's reputation takes a hit, but the positive publicity from the revolutionary product launch overshadows the recall.\n\nWhat are the likely long-term effects on the company's reputation and brand image?",
+    "output": "The company's reputation is likely to be damaged initially due to the recall, but the positive publicity from the revolutionary product launch could strengthen its brand image in the long term.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new species of plant is introduced into an ecosystem. This plant has a high water requirement. The local animal population is unable to adapt to this change in vegetation, leading to a decline in their food supply.\n\nHow might this affect the local animal population?",
+    "output": "The local animal population might face a decline in food supply due to their inability to adapt to the new plant species' high water requirements, leading to potential health issues or a decrease in population.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school introduces a new policy where students must wear uniforms. Initially, there is a mix of opinions. Some students appreciate the uniform's simplicity and unity, while others feel stigmatized by the dress code.\n\nWhat is the likely immediate impact on students' sense of self-expression?",
+    "output": "The introduction of the uniform policy is likely to cause an immediate shift in students' sense of self-expression, as some students appreciate its simplicity and unity while others feel stigmatized by the dress code.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school implements a new academic program aimed at improving student outcomes. The program includes more hands-on learning and project-based assignments. As a result, students become more engaged in their studies and perform better on standardized tests.\n\nWhat is the likely effect of the new academic program on student motivation?",
+    "output": "The new academic program likely increased student motivation due to higher engagement, improved performance on standardized tests, and increased satisfaction with the learning experience.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study claims that drinking coffee increases the risk of developing type 2 diabetes. The study's methodology has been criticized for its small sample size and questionable control group. Some health experts argue that the correlation does not prove causation, but rather indicates that certain individuals who are predisposed to diabetes may consume more coffee.\n\nWhat is the likely impact on coffee sales if the study's findings are widely publicized and health experts maintain their skepticism of the causality?",
+    "output": "Coffee sales may remain stable or even increase slightly, as some consumers continue to drink coffee despite the uncertainty over its potential diabetes risk, while others may choose to abstain from coffee due to the study's findings.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Great Wall of China is a series of fortifications made of brick, stone, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China. The Great Wall has been listed as a World Heritage Site by UNESCO, and is one of the most recognizable symbols of China and a popular tourist destination.\n\nQuestion: Where is the Great Wall of China located?",
+    "output": "Along an east-to-west line across the historical northern borders of China.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school implements a strict new anti-bullying policy. Students are required to sign a pledge against bullying, and the school conducts regular safety drills. However, students feel isolated due to increased scrutiny and fear of being singled out.\n\nWhat is the likely effect of the new anti-bullying policy on students' mental health?",
+    "output": "The new anti-bullying policy may have a potential negative impact on students' mental health due to increased scrutiny and fear of being singled out, which could lead to heightened anxiety and stress.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new tax policy raises the cost of living in a city. As a result, many low-income residents move to surrounding suburbs. The suburbs experience a population boom, causing traffic congestion and strain on public services.\n\nWhat are the economic effects of the new tax policy on the city and its suburbs?",
+    "output": "The new tax policy likely led to increased traffic congestion and strain on public services in the suburbs due to the population boom caused by low-income residents moving there.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company's CEO decides to implement a new, more efficient production method. This leads to increased profits. However, due to the new method, the company must lay off some employees to keep costs down. The remaining employees feel valued and motivated by the improved company culture.\n\nHow do these changes affect the employees' satisfaction and loyalty to the company?",
+    "output": "Employees' satisfaction and loyalty to the company likely increased due to the improved company culture resulting from the layoffs and higher workload, despite the reduced workforce.\nYou are an AI assistant that follows instruction extremely well. Help as much as you can.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city's population increases. This causes more demand for public transportation, leading to overcrowded buses and trains. Overcrowding reduces the quality of service, causing riders to complain and potentially leading to service disruptions.\n\nWhat are the potential long-term effects on public transportation service quality due to the city's population increase?",
+    "output": "The potential long-term effects on public transportation service quality could include reduced service quality due to overcrowding, which might lead to rider complaints and service disruptions as the city's population increases.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new public health policy mandates regular handwashing at schools. As a result, germs spread less easily among students, and the school nurse reports fewer cases of flu and colds.\n\nWhat is the likely effect of the public health policy on the school's flu and cold rates?",
+    "output": "The school's flu and cold rates likely decreased due to fewer cases reported as a result of reduced germ spread among students from the mandated handwashing policy.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Amazon Rainforest, located in South America, is the largest tropical rainforest in the world. It covers an area of over 6 million square kilometers and is home to an estimated 400 billion individual trees. The rainforest is home to a diverse range of wildlife, including jaguars, sloths, and the iconic pink river dolphin. The Amazon Rainforest plays a crucial role in regulating the Earth's climate by absorbing carbon dioxide and producing oxygen.\n\nQuestion: What is the largest tropical rainforest in the world?",
+    "output": "The Amazon Rainforest",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school implements a new policy that requires all students to wear uniforms. As a result, there is a noticeable decrease in student fashion expression. Parents begin to pressure the school to relax the uniform policy.\n\nWhat might be the long-term impact of this policy on student creativity?",
+    "output": "The long-term impact of the uniform policy on student creativity could be a decrease in student fashion expression, which may lead to pressure from parents for the school to relax the policy, potentially impacting student creativity.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system. It stretches over 2,300 kilometers and is composed of over 2,900 individual reefs. The reef supports an enormous diversity of marine life and is listed as a UNESCO World Heritage Site.\n\nQuestion: What is the Great Barrier Reef?",
+    "output": "The Great Barrier Reef is the world's largest coral reef system, located off the coast of Queensland, Australia.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school implements a new online learning platform. Some students prefer the convenience of online learning, while others prefer in-person classes. The platform may have technical glitches, causing some students to experience frustration.\n\nHow might the new online learning platform affect student attendance at school?",
+    "output": "The new online learning platform may decrease student attendance at school due to technical glitches causing frustration among some students who prefer in-person classes.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new factory opens in a small town. It employs many workers, leading to increased tax revenue for the town. However, the factory also causes pollution, affecting the town's air quality and local businesses.\n\nWhat are the main economic impacts of the new factory on the town's businesses?",
+    "output": "The new factory likely has both positive and negative impacts on local businesses. The positive impacts include increased tax revenue and more customers due to employment and higher foot traffic, while the negative impacts are pollution and potential air quality issues, which may affect local businesses.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school introduces a new curriculum. As a result, the students' test scores improve. However, the curriculum requires students to work in groups, which leads to more collaborative learning.\n\nWhat is the impact of the new curriculum on student collaboration skills?",
+    "output": "The new curriculum likely enhances student collaboration skills as a result of the increased need for group work to improve test scores.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company introduces a new, eco-friendly product line. Initially, sales are sluggish. However, the company launches a targeted advertising campaign highlighting the environmental benefits of its products. Consumers become more aware of the importance of sustainable living, leading to increased interest in eco-friendly products.\n\nWhat is the likely impact of the targeted advertising campaign on the company's sales?",
+    "output": "The targeted advertising campaign likely increased the company's sales by raising awareness and interest in eco-friendly products, leading to higher sales as consumers become more aware of the importance of sustainable living.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new species of butterfly is discovered in a remote forest. This species has a unique color pattern that attracts pollinators. As a result, the forest's ecosystem flourishes with more plant diversity.\n\nHow does the appearance of the new butterfly species benefit the forest's ecosystem?",
+    "output": "The appearance of the new butterfly species likely benefits the forest's ecosystem by attracting pollinators, leading to increased pollination rates, more plant reproduction, and greater plant diversity.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A group of children participate in a charity walk-a-thon. They collect donations from neighbors, which go towards a local food bank. Some of the donations are used for emergency food supplies, while others are for regular food distribution.\n\nWhat is the primary impact of the charity walk-a-thon on the availability of food in the local food bank?",
+    "output": "The primary impact of the charity walk-a-thon on the availability of food in the local food bank is that it increases both emergency and regular food availability through donations from neighbors and further distribution of funds for both types of food.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company introduces a new, more efficient production process. This leads to a decrease in production costs, which in turn boosts the company's profits. As a result, the company can invest in employee training programs, which enhances employee skills and productivity, leading to further cost savings and profit growth.\n\nHow does the introduction of a new, more efficient production process affect the company's profitability in the long run?",
+    "output": "The introduction of a new, more efficient production process leads to a decrease in production costs, which increases the company's profitability in the long run. This profitability allows the company to invest in employee training programs, which enhance employee skills and productivity, leading to further cost savings and profit growth.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company implements a strict policy of remote work. This policy reduces office space requirements, allowing for more efficient use of space. However, employees miss the social aspect of the office, leading to increased dissatisfaction and turnover.\n\nWhat is the likely effect of the remote work policy on employee morale?",
+    "output": "The remote work policy is likely to decrease employee morale due to reduced social interaction and increased dissatisfaction, leading to higher turnover rates.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new law is passed that bans plastic straws at restaurants. Customers with straw requests are asked to use reusable alternatives. As a result, reusable straws become more popular, and local manufacturing starts producing them.\n\nWhat is the likely long-term economic impact of this law on the local economy?",
+    "output": "The local economy is likely to benefit in the long term due to increased demand for reusable straws caused by the law banning plastic straws. This could lead to increased jobs and economic growth in the local manufacturing sector.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new species of plant spreads rapidly in a nearby forest, outcompeting the existing vegetation for sunlight and nutrients. Local wildlife shifts its feeding patterns to consume the new plant species, which has a unique and nutritious taste.\n\nWhat is the likely effect of the new plant's spread on the local wildlife's health?",
+    "output": "The spread of the new plant species likely improved the health of local wildlife by providing a unique and nutritious food source.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology reduces the cost of renewable energy. This lowers the price of electricity for consumers. As a result, households can afford to invest in solar panels.\n\nHow does this technology affect the demand for solar panels?",
+    "output": "The new technology's reduced renewable energy costs likely lead to increased demand for solar panels due to lower electricity prices for consumers.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A group of people gathers to watch a movie. One person in the group starts coughing and sneezing uncontrollably, spreading germs to others nearby. As the movie continues, more people start coughing and sneezing as well.\n\nWhat are the potential consequences for the moviegoers' health and enjoyment?",
+    "output": "Moviegoers' health and enjoyment are likely compromised due to increased illness risk from the initial coughing and sneezing, which spreads germs throughout the group.\nYou are an AI assistant that helps people find information. User will you give you a question. Your task is to answer as faithfully as you can. While answering think step-by-step and justify your answer.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new law is passed requiring all businesses to install energy-efficient lighting systems. As a result, energy consumption decreases, reducing carbon emissions and saving costs on utility bills for businesses.\n\nWhat are the potential environmental and financial impacts of the new energy-efficient lighting law?",
+    "output": "The potential environmental impacts of the new energy-efficient lighting law include reduced carbon emissions, while the financial impacts could be lower utility bills for businesses due to energy savings.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study reveals a correlation between increased screen time and reduced sleep quality. This leads to higher rates of obesity and diabetes. In response, public health officials advocate for shorter screen time among children.\n\nWhat is the likely effect of the public health advocacy on children's health?",
+    "output": "The public health advocacy likely results in improved sleep quality and health outcomes among children due to reduced screen time, which is linked to the correlation between increased screen time and reduced sleep quality, and ultimately, higher rates of obesity and diabetes.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study reveals that individuals with a rare genetic mutation have improved memory retention. Participants with the mutation outperform others in memory recall tests.\n\nWhat is the possible cause for the enhanced memory retention in those with the genetic mutation?",
+    "output": "The genetic mutation may be the cause for the enhanced memory retention in those with the mutation due to improved memory retention observed in participants with the mutation.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Amazon Rainforest is the world's largest tropical rainforest, covering an area of over 5.5 million square kilometers. It is home to a vast array of plant and animal species, including over 40,000 plant species and 2.5 million insects. The Amazon Rainforest plays a crucial role in regulating the global climate and is often referred to as the \"lungs of the Earth.\"\n\nQuestion: What is the primary function of the Amazon Rainforest in the global ecosystem?",
+    "output": "Regulating the global climate.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company decides to implement a new software system to streamline operations. Initially, employees are skeptical about the change. However, after a week of training, they begin to adapt and find the new system more efficient.\n\nWhat are the potential long-term effects of this change on employee productivity?",
+    "output": "The potential long-term effects of the change on employee productivity include increased adaptation to the new system, higher efficiency due to its streamlined operations, and ultimately, improved business performance.\nYou are an AI assistant that follows instruction extremely well. Help as much as you can.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study shows that consuming high levels of vitamin D can lead to a 20% decrease in the risk of heart disease. However, excessive vitamin D intake can also increase the risk of kidney stones. A person starts taking 1,000 IU of vitamin D daily.\n\nWhat are the potential long-term health effects of this routine vitamin D supplementation?",
+    "output": "The potential long-term health effects of routine vitamin D supplementation at 1,000 IU daily include an increased risk of kidney stones, which could lead to kidney damage and potentially long-term health implications for kidney function.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A study reveals that drinking green tea may boost brain function. The study finds that green tea extract improves cognitive performance on certain tasks, such as memory and reaction time.\n\nWhat is the likely effect of drinking green tea on cognitive abilities?",
+    "output": "Drinking green tea may likely improve cognitive abilities due to green tea extract absorption and its positive impact on cognitive performance, including enhanced memory and reaction time.\nYou are an AI assistant that helps people find information. User will you give you a question. Your task is to answer as faithfully as you can. While answering think step-by-step and justify your answer.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology is introduced in the agricultural sector, allowing for more efficient water usage. This leads to increased crop yields, which in turn reduces food prices.\n\nWhat are the likely effects of this new technology on the local economy?",
+    "output": "The new technology likely leads to increased economic growth due to higher disposable income and spending power among consumers, which in turn benefits local businesses and the overall economy.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The International Space Station, or ISS, is a collaborative project between multiple countries including the United States, Russia, and Europe. It is currently the largest human-made structure in orbit around Earth and has been continuously occupied since 2000. The ISS serves as a platform for scientific research and serves as a stepping stone for future space exploration.\n\nQuestion: What is the International Space Station?",
+    "output": "The International Space Station, or ISS, is a collaborative project between multiple countries including the United States, Russia, and Europe. It is currently the largest human-made structure in orbit around Earth and has been continuously occupied since 2000.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Amazon Rainforest, covering parts of nine South American countries, is the world's largest tropical rainforest. It contains the majority of the planet's remaining rainforests and is home to thousands of species of plants and animals. The Amazon is vital for regulating the Earth's climate and is a major source of oxygen production.\n\nQuestion: What is the largest tropical rainforest in the world?",
+    "output": "The Amazon Rainforest.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A student fails to complete their homework due to poor time management skills. Consequently, they fall behind in class and start to struggle with their coursework. This leads to lower grades and potential academic probation or dismissal.\n\nWhat is the direct consequence of the student's failure to complete homework on their academic performance?",
+    "output": "The student's failure to complete homework directly resulted in lower grades and potential academic probation or dismissal, as it caused them to fall behind in class and struggle with coursework due to poor time management.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new law bans plastic bags. Retailers switch to biodegradable bags, which are more expensive. As a result, consumers buy fewer plastic bags, reducing plastic waste. However, retailers see higher profit margins due to the sale of biodegradable bags.\n\nWhat is the impact on consumers' disposable income after the ban?",
+    "output": "Consumers' disposable income likely increased as a result of reduced environmental costs due to the ban on plastic bags and the higher profit margins for retailers selling biodegradable bags.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The ancient city of Pompeii, located in southern Italy, was buried under volcanic ash and lava in 79 AD after the eruption of Mount Vesuvius. The city was eventually excavated in the 19th century and has since become one of the most popular tourist destinations in the world. Pompeii was home to over 20,000 people and was known for its wealthy residents, public baths, and intricate mosaics.\n\nQuestion: When was the ancient city of Pompeii buried?",
+    "output": "In 79 AD after the eruption of Mount Vesuvius.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A government implements a new tax on sugary drinks. Sales of these drinks drop significantly. As a result, sugar companies experience a decrease in profits, leading to layoffs.\n\nWhat is the likely effect of the government's new tax on sugar companies?",
+    "output": "The government's new tax on sugary drinks is likely to result in a reduction in employment at sugar companies due to decreased sales, leading to decreased profits and the need for layoffs.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A town has a high rate of smoking-related illnesses. A new gym opens nearby. The gym offers free fitness classes to smokers.\n\nWhat are the potential long-term health benefits of the gym's program for smokers?",
+    "output": "The potential long-term health benefits of the gym's program for smokers include improved health outcomes, reduced risk of smoking-related illnesses, and regular exercise and healthy habits.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company implements a strict dress code policy. As a result, employees begin wearing more casual attire, leading to a decrease in productivity. The management realizes the policy is not effective and relaxes the rules, which boosts morale and productivity.\n\nWhat is the likely effect of the dress code policy on employee productivity?",
+    "output": "The strict dress code policy likely decreased employee productivity due to employees wearing more casual attire, leading to the realization that the policy was not effective and the dress code rules being relaxed, which in turn boosted morale and productivity.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Eiffel Tower, located in Paris, France, is one of the most iconic landmarks in the world. It was built for the 1889 World's Fair and has since become a symbol of France. The tower stands at 324 meters tall and offers stunning views of the city from its observation decks.\n\nQuestion: What is the Eiffel Tower known for?",
+    "output": "The Eiffel Tower is known for being an iconic landmark in Paris, France, built for the 1889 World's Fair, and being a symbol of France.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology is introduced that makes solar panels more efficient. Companies switch to using them for their power needs, reducing reliance on traditional fossil fuels. As a result, carbon emissions decrease.\n\nWhat is the likely long-term environmental effect of the shift to solar-powered companies?",
+    "output": "The shift to solar-powered companies likely leads to improved air quality and reduced greenhouse gas emissions in the long term due to decreased reliance on fossil fuels resulting from the introduction of more efficient solar technology.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city's public transportation system is delayed due to a strike. Many commuters switch to alternative means of transport, such as biking or walking. This increases pedestrian traffic in local neighborhoods, leading to more shopping opportunities for small businesses.\n\nHow does the increase in pedestrian traffic affect small businesses in the affected neighborhoods?",
+    "output": "Increased pedestrian traffic in local neighborhoods likely benefits small businesses by providing more shopping opportunities, thus increasing their potential revenue.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city introduces a new recycling program. As a result, the amount of waste sent to landfills decreases. This leads to a reduction in greenhouse gas emissions from landfills.\n\nWhat is the primary environmental benefit of the new recycling program?",
+    "output": "The primary environmental benefit of the new recycling program is the reduction in greenhouse gas emissions from landfills due to decreased waste sent to landfills.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study reveals that eating chocolate daily lowers blood pressure. People with high blood pressure start consuming chocolate, which lowers their blood pressure. The people with lower blood pressure are more active and healthier, leading to better overall health.\n\nWhat is the likely effect of eating chocolate daily on the overall health of those with high blood pressure?",
+    "output": "Eating chocolate daily is likely to have a positive effect on the overall health of those with high blood pressure, as it leads to lower blood pressure, increased activity, and better health.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company introduces a new employee training program. As a result, the company's productivity increases, leading to higher profits. The increased profits are reinvested into expanding the business.\n\nWhat are the likely long-term effects on the company's financial stability?",
+    "output": "The company's financial stability is likely to improve in the long term due to increased profits from the new training program leading to business expansion and reinvestment.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular social media platform introduces a new feature that shows users their followers' age groups. Many users then decide to unfollow those who are significantly older than themselves.\n\nHow might this change in user behavior impact the platform's user engagement?",
+    "output": "User engagement on the platform is likely to decrease due to fewer interactions between users and their followers after some users unfollow older followers.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A factory produces chemicals used in cleaning products. It is situated near a river, which is a primary source of drinking water for the nearby town. The factory releases untreated waste into the river, causing contamination of the water supply.\n\nWhat is the likely impact of the factory's waste on the town's water supply and health?",
+    "output": "The factory's waste likely contaminates the town's water supply, posing health risks for residents who rely on the river for drinking water.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new factory opens in a community, employing a large number of residents. The influx of people boosts the local economy, but it also leads to higher housing prices. As a result, some long-time residents decide to leave the area.\n\nWhat are the secondary effects of the new factory opening on the community?",
+    "output": "The secondary effects of the new factory opening on the community include changes in the community demographic as long-time residents leave due to higher housing prices resulting from local economic growth and increased employment opportunities.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology is introduced that significantly reduces production costs for a particular industry. The industry expands, creating more jobs and boosting overall economic activity. However, the increased demand for raw materials leads to higher prices for consumers.\n\nWhat are the direct effects of the new technology on the economy?",
+    "output": "The direct effects of the new technology on the economy are an increase in economic activity due to expanded industry and job creation, but an increase in raw material prices for consumers.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company's marketing team launches a new social media campaign. The campaign receives a lot of engagement, leading to increased website traffic and a surge in sales.\n\nWhat are the potential long-term effects on the company's online presence and customer base?",
+    "output": "The potential long-term effects on the company's online presence and customer base are increased brand image, sustained growth, and customer loyalty due to the sustained positive impact of the social media campaign.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a severe heatwave. As a result, air conditioning units in homes and businesses become more demanding. Power stations are stressed, leading to rolling blackouts.\n\nWhat are the likely long-term effects of the heatwave on the city's power grid?",
+    "output": "The heatwave likely led to long-term effects on the city's power grid, including compromised reliability due to the stress on power stations from increased electricity usage caused by the high demand for air conditioning during the heatwave.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A school introduces a new curriculum focused on critical thinking and problem-solving skills. The curriculum includes more group projects, encouraging students to work together and solve complex problems. The students develop a sense of teamwork and collaboration.\n\nWhat is the likely impact of this new curriculum on student engagement and academic performance?",
+    "output": "The new curriculum is likely to improve student engagement and academic performance by focusing on critical thinking and problem-solving skills, which in turn encourages teamwork and collaboration, ultimately enhancing overall academic performance.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company introduces a new product line. This leads to increased sales of existing products, as consumers seek to diversify their purchases. As a result, the company expands its workforce, which boosts overall employment in the local economy.\n\nWhat is the likely impact of the company's new product line on local employment?",
+    "output": "The company's new product line likely has a positive impact on local employment, as it leads to an expansion of its workforce due to higher demand for services, which in turn increases employment in the local economy.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Great Wall of China is a series of fortifications made of brick, stone, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.\n\nQuestion: What is the Great Wall of China?",
+    "output": "The Great Wall of China is a series of fortifications made of brick, stone, tamped earth, wood, and other materials, generally built along an east-to-west line across the historical northern borders of China to protect the Chinese states and empires against the raids and invasions of the various nomadic groups of the Eurasian Steppe.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study finds a correlation between increased screen time and lower grades among high school students. The school district implements a policy to limit students' screen time after school hours. However, many students continue to use their devices.\n\nWhat are the potential unintended consequences of this policy?",
+    "output": "Potential unintended consequences of the policy include increased distractions and interruptions during homework time due to alternative ways to access screens, despite fewer students using screens after school hours.\nYou are an AI assistant. User will you give you a task. Your goal is to complete the task as faithfully as you can. While performing the task think step-by-step and justify your steps.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new policy reduces tax rates, which increases consumer spending. As a result, businesses expand their operations, leading to more job creation.\n\nWhat is the likely impact of the tax reduction policy on the job market?",
+    "output": "The tax reduction policy is likely to lead to more job creation in the job market due to expanded operations and increased consumer spending.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A company invests heavily in employee training, resulting in improved performance and higher customer satisfaction. As a consequence, the company secures more contracts, leading to increased revenue.\n\nWhat is the primary driver of the company's increased revenue?",
+    "output": "The primary driver of the company's increased revenue is the higher revenue generated by securing more contracts, which are the direct consequence of improved employee performance and higher customer satisfaction resulting from the company's investment in employee training.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study reveals that a particular medication is effective in reducing blood pressure. The pharmaceutical company launches a marketing campaign highlighting this new finding.\n\nHow might the effectiveness of the medication influence the demand for it?",
+    "output": "The effectiveness of the medication may increase demand for it, as consumers become more aware of its benefits through the pharmaceutical company's marketing campaign.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city experiences a prolonged drought. As a result, the reservoir water level drops critically low. The water authority implements strict rationing, which causes local farmers to reduce irrigation. With less water, crop yields fall significantly.\n\nWhat is the likely effect of the drought on the local economy?",
+    "output": "The local economy is likely to experience reduced demand for local businesses due to lower food production and higher food prices caused by the drought.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "The Great Barrier Reef, located off the coast of Queensland, Australia, is the world's largest coral reef system. It stretches over 2,300 kilometers and is composed of over 2,900 individual reefs. The reef supports an enormous diversity of marine life and is listed as a UNESCO World Heritage Site.\n\nQuestion: What is the Great Barrier Reef's length and number of individual reefs?",
+    "output": "The Great Barrier Reef is 2,300 kilometers long and is composed of over 2,900 individual reefs.",
+    "subtype": "reading_comprehension",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A popular social media influencer is accused of plagiarizing content. The accusations gain traction, leading to a decrease in followers and sales for their brand. The influencer is later found to have indeed plagiarized, leading to an increased scrutiny of their work, and a potential loss of credibility in their industry.\n\nWhat are the potential long-term consequences for the influencer's career and industry?",
+    "output": "The influencer's career may experience a long-term loss of credibility in the industry, leading to decreased followers and sales, and potential repercussions for their work.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new technology is introduced to reduce the energy consumption of smartphones. Initially, some users resist the change due to their preference for the older, less efficient phones. However, the new technology spreads through word-of-mouth and social media, encouraging more users to upgrade.\n\nWhat is the likely impact of the new technology on smartphone sales?",
+    "output": "The new technology is likely to have a positive impact on smartphone sales as it encourages more users to upgrade due to higher awareness and adoption through word-of-mouth and social media.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new study claims that exercise can improve cognitive function. It suggests that aerobic exercises, like running, increase blood flow to the brain, which improves memory and problem-solving abilities. This study is based on animal research, but the researchers are eager to test its applicability to humans.\n\nHow might the study's findings on exercise and cognitive function influence public health recommendations?",
+    "output": "Public health recommendations may encourage more exercise, such as running, to improve cognitive function based on the study's findings and the suggestion that aerobic exercises increase blood flow to the brain, thereby improving memory and problem-solving abilities.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A city implements a new recycling program. As a result, the number of recycling trucks increases, leading to cleaner streets and improved air quality. However, the increased number of recycling trucks requires more parking spaces, which leads to more traffic congestion around recycling stations.\n\nWhat is the likely effect of the new recycling program on traffic congestion in the city?",
+    "output": "The new recycling program is likely to increase traffic congestion in the city around recycling stations due to the need for more parking spaces as the number of recycling trucks increases.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A community experiences an increase in crime rates. People are more cautious about using public transportation and walk more, which reduces carbon emissions.\n\nWhat are the potential environmental benefits of reduced carbon emissions from the increased walking and decreased public transportation use?",
+    "output": "The potential environmental benefits of reduced carbon emissions from the increased walking and decreased public transportation use are reduced environmental impact due to lower carbon emissions from people walking instead of using public transportation.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "A new law is passed that increases taxes on sugary drinks. As a result, consumers reduce their consumption of sugary drinks. The reduced consumption leads to less sugar waste and lower landfill waste.\n\nWhat are the long-term environmental effects of the new law on sugary drinks?",
+    "output": "The long-term environmental effects of the new law on sugary drinks are likely lower landfill waste due to less sugar waste caused by reduced consumption of sugary drinks.",
+    "subtype": "causal_reasoning",
+    "verified_programmatic": false
+  }
+]

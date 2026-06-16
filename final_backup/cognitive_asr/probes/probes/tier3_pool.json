@@ -1,0 +1,335 @@
+[
+  {
+    "question": "Approximately what percentage of the electromagnetic spectrum is visible light?",
+    "choices": [
+      "more than 75%",
+      "50%",
+      "25%",
+      "less than 10%"
+    ],
+    "answer": 3,
+    "source_benchmark": "arc_easy",
+    "tier": 3,
+    "cognitive_justification": "Direct science fact recall or single-step elimination; does not require chained computation."
+  },
+  {
+    "question": "Some scientists study images of very distant celestial bodies. Where is the best location for the types of telescopes that can provide the scientists with the clearest images.",
+    "choices": [
+      "at sea level",
+      "in outer space",
+      "on mountain tops",
+      "at higher latitudes"
+    ],
+    "answer": 1,
+    "source_benchmark": "arc_easy",
+    "tier": 3,
+    "cognitive_justification": "Direct science fact recall or single-step elimination; does not require chained computation."
+  },
+  {
+    "question": "The body is made up of many systems that interact with one another. For example, the skeletal system and the muscular system work together to help the body move. Which system works with the respiratory system to distribute oxygen to the body?",
+    "choices": [
+      "muscular system",
+      "digestive system",
+      "lymphatic system",
+      "circulatory system"
+    ],
+    "answer": 3,
+    "source_benchmark": "arc_easy",
+    "tier": 3,
+    "cognitive_justification": "Direct science fact recall or single-step elimination; does not require chained computation."
+  },
+  {
+    "question": "What kind of energy conversion occurs after a candle is lit?",
+    "choices": [
+      "friction to electrical energy",
+      "light energy to heat energy",
+      "mass to kinetic energy",
+      "chemical energy to light energy"
+    ],
+    "answer": 3,
+    "source_benchmark": "arc_easy",
+    "tier": 3,
+    "cognitive_justification": "Direct science fact recall or single-step elimination; does not require chained computation."
+  },
+  {
+    "question": "A donkey and a horse can be bred to produce a mule. Which observation is evidence that donkeys and horses are two different species?",
+    "choices": [
+      "They have different body sizes.",
+      "A mule is not able to reproduce.",
+      "They are found in different environments.",
+      "A mule does not resemble either parent."
+    ],
+    "answer": 1,
+    "source_benchmark": "arc_easy",
+    "tier": 3,
+    "cognitive_justification": "Direct science fact recall or single-step elimination; does not require chained computation."
+  },
+  {
+    "question": "Which adaptation helps a bird fly?",
+    "choices": [
+      "larger feet",
+      "bigger eyes",
+      "longer beaks",
+      "hollow bones"
+    ],
+    "answer": 3,
+    "source_benchmark": "arc_easy",
+    "tier": 3,
+    "cognitive_justification": "Direct science fact recall or single-step elimination; does not require chained computation."
+  },
+  {
+    "question": "After a rain, a puddle of water remains on a sidewalk. After a day of sunshine, the puddle is gone. Which process is most responsible for the disappearance of the puddle?",
+    "choices": [
+      "precipitation",
+      "transpiration",
+      "evaporation",
+      "condensation"
+    ],
+    "answer": 2,
+    "source_benchmark": "arc_easy",
+    "tier": 3,
+    "cognitive_justification": "Direct science fact recall or single-step elimination; does not require chained computation."
+  },
+  {
+    "question": "Which unit of measurement should be used to describe the  mass of an apple?",
+    "choices": [
+      "gram",
+      "liter",
+      "minute",
+      "meter"
+    ],
+    "answer": 0,
+    "source_benchmark": "arc_easy",
+    "tier": 3,
+    "cognitive_justification": "Direct science fact recall or single-step elimination; does not require chained computation."
+  },
+  {
+    "question": "How do the circulatory system and the respiratory system depend on one another?",
+    "choices": [
+      "Oxygen collected by the respiratory system is carried throughout the body by the circulatory system.",
+      "Solid wastes collected by the circulatory system are carried throughout the body by the respiratory system.",
+      "Nutrients collected by the respiratory system are carried throughout the body by the circulatory system.",
+      "Carbon dioxide collected by the circulatory system is carried throughout the body by the respiratory system."
+    ],
+    "answer": 0,
+    "source_benchmark": "arc_easy",
+    "tier": 3,
+    "cognitive_justification": "Direct science fact recall or single-step elimination; does not require chained computation."
+  },
+  {
+    "question": "The return address is not required on postal mail. However, lack of a return address prevents the postal service from being able to return the item if it proves undeliverable; such as from damage, postage due, or invalid destination. Such mail may otherwise become dead letter mail.\n\nQuestion: can i send something without a return address",
+    "choices": [
+      "No",
+      "Yes"
+    ],
+    "answer": 1,
+    "source_benchmark": "boolq",
+    "tier": 3,
+    "cognitive_justification": "Binary yes/no reading comprehension; typically solvable by locating the key sentence in the passage without multi-step inference."
+  },
+  {
+    "question": "Google Voice provides a U.S. telephone number, chosen by the user from available numbers in selected area codes, free of charge to each user account. Calls to this number are forwarded to telephone numbers that each user must configure in the account web portal. Multiple destinations may be specified that ring simultaneously for incoming calls. Service establishment requires a United States telephone number. A user may answer and receive calls on any of the ringing phones as configured in the web portal. During a received call the user may switch between the configured telephones.\n\nQuestion: is there a monthly fee for google voice",
+    "choices": [
+      "No",
+      "Yes"
+    ],
+    "answer": 0,
+    "source_benchmark": "boolq",
+    "tier": 3,
+    "cognitive_justification": "Binary yes/no reading comprehension; typically solvable by locating the key sentence in the passage without multi-step inference."
+  },
+  {
+    "question": "Lake Ontario is one of the five Great Lakes of North America. It is surrounded on the north, west, and southwest by the Canadian province of Ontario, and on the south and east by the American state of New York, whose water boundaries meet in the middle of the lake. Ontario, Canada's most populous province, was named for the lake. Many of Ontario's most populous cities, including Toronto, Canada's most populous city, and Hamilton, are on the lake's northern or western shores. In the Huron language, the name Ontar\u00ed'io means ``Lake of Shining Waters''. Its primary inlet is the Niagara River from Lake Erie. The last in the Great Lakes chain, Lake Ontario serves as the outlet to the Atlantic Ocean via the Saint Lawrence River.\n\nQuestion: is lake ontario connected to the atlantic ocean",
+    "choices": [
+      "No",
+      "Yes"
+    ],
+    "answer": 1,
+    "source_benchmark": "boolq",
+    "tier": 3,
+    "cognitive_justification": "Binary yes/no reading comprehension; typically solvable by locating the key sentence in the passage without multi-step inference."
+  },
+  {
+    "question": "A season finale (British English: last in the season; Australian English: season final) is the final episode of a season of a television program. This is often the final episode to be produced for a few months or longer, and, as such, will try to attract viewers to continue watching when the series begins again.\n\nQuestion: does season finale mean the show is over",
+    "choices": [
+      "No",
+      "Yes"
+    ],
+    "answer": 0,
+    "source_benchmark": "boolq",
+    "tier": 3,
+    "cognitive_justification": "Binary yes/no reading comprehension; typically solvable by locating the key sentence in the passage without multi-step inference."
+  },
+  {
+    "question": "Born in Yate, Gloucestershire, England, Rowling was working as a researcher and bilingual secretary for Amnesty International when she conceived the idea for the Harry Potter series while on a delayed train from Manchester to London in 1990. The seven-year period that followed saw the death of her mother, birth of her first child, divorce from her first husband and relative poverty until the first novel in the series, Harry Potter and the Philosopher's Stone, was published in 1997. There were six sequels, of which the last, Harry Potter and the Deathly Hallows, was released in 2007. Since then, Rowling has written four books for adult readers: The Casual Vacancy (2012) and--under the pseudonym Robert Galbraith--the crime fiction novels The Cuckoo's Calling (2013), The Silkworm (2014) and Career of Evil (2015).\n\nQuestion: does jk rowling have any other books besides harry potter",
+    "choices": [
+      "No",
+      "Yes"
+    ],
+    "answer": 1,
+    "source_benchmark": "boolq",
+    "tier": 3,
+    "cognitive_justification": "Binary yes/no reading comprehension; typically solvable by locating the key sentence in the passage without multi-step inference."
+  },
+  {
+    "question": "The top of the tower is currently known as the Blackpool Tower Eye. At a height of 380 feet (120 m), the Eye is the highest observation deck in North West England. It was previously known simply as the Tower Top, until it reopened on September 2011. Reopening after major renovation, new owner Blackpool Council brought in Merlin Entertainments to manage the attractions, with Merlin deciding to incorporate the tower into its range of ``Eye'' branded attractions.\n\nQuestion: is the ballroom at the top of the blackpool tower",
+    "choices": [
+      "No",
+      "Yes"
+    ],
+    "answer": 0,
+    "source_benchmark": "boolq",
+    "tier": 3,
+    "cognitive_justification": "Binary yes/no reading comprehension; typically solvable by locating the key sentence in the passage without multi-step inference."
+  },
+  {
+    "question": "A Snellen chart is an eye chart that can be used to measure visual acuity. Snellen charts are named after the Dutch ophthalmologist Herman Snellen, who developed the chart in 1862. Many ophthalmologists and vision scientists now use an improved chart known as the LogMAR chart.\n\nQuestion: do all eye doctors use the same eye chart",
+    "choices": [
+      "No",
+      "Yes"
+    ],
+    "answer": 0,
+    "source_benchmark": "boolq",
+    "tier": 3,
+    "cognitive_justification": "Binary yes/no reading comprehension; typically solvable by locating the key sentence in the passage without multi-step inference."
+  },
+  {
+    "question": "Indiana Jones and the Temple of Doom is a 1984 American action-adventure film directed by Steven Spielberg. It is the second installment in the Indiana Jones franchise and a prequel to the 1981 film Raiders of the Lost Ark, featuring Harrison Ford reprising his role as the title character. After arriving in North India, Indiana Jones is asked by desperate villagers to find a mystical stone and rescue their children from a Thuggee cult practicing child slavery, black magic and ritual human sacrifice in honor of the goddess Kali.\n\nQuestion: is indiana jones temple of doom a prequel",
+    "choices": [
+      "No",
+      "Yes"
+    ],
+    "answer": 1,
+    "source_benchmark": "boolq",
+    "tier": 3,
+    "cognitive_justification": "Binary yes/no reading comprehension; typically solvable by locating the key sentence in the passage without multi-step inference."
+  },
+  {
+    "question": "Typically, once spun, cotton candy is only marketed by color. Absent a clear name other than 'blue', the distinctive taste of the blue raspberry flavor mix has gone on to become a compound flavor that some other foods (gum, ice cream, rock candy, fluoride toothpaste) occasionally borrow (``cotton-candy flavored ice cream'') to invoke the nostalgia of cotton candy that people typically only get to experience on vacation or holidays. Pink bubble gum went through a similar transition from specific branded product to a generic flavor that transcended the original confection, and 'bubble gum flavor' often shows up in the same product categories as 'cotton candy flavor'.\n\nQuestion: do blue and pink cotton candy taste the same",
+    "choices": [
+      "No",
+      "Yes"
+    ],
+    "answer": 0,
+    "source_benchmark": "boolq",
+    "tier": 3,
+    "cognitive_justification": "Binary yes/no reading comprehension; typically solvable by locating the key sentence in the passage without multi-step inference."
+  },
+  {
+    "question": "The charge on an oil drop is measured in the laboratory. Which of the following measurements should be rejected as highly unlikely to be correct?",
+    "choices": [
+      "6.4 \u00d7 10^-19 C",
+      "8.0 \u00d7 10^-19 C",
+      "4.8 \u00d7 10^-19 C",
+      "2.4 \u00d7 10^-19 C"
+    ],
+    "answer": 3,
+    "source_benchmark": "mmlu_high_school_physics",
+    "tier": 3,
+    "cognitive_justification": "MMLU high school physics \u2014 empirically stable or improving after SFT; used as sanity-check probes."
+  },
+  {
+    "question": "What happens to the pressure, P, of an ideal gas if the temperature is increased by a factor of 2 and the volume is increased by a factor of 8 ?",
+    "choices": [
+      "P decreases by a factor of 16.",
+      "P decreases by a factor of 4.",
+      "P decreases by a factor of 2.",
+      "P increases by a factor of 4."
+    ],
+    "answer": 1,
+    "source_benchmark": "mmlu_high_school_physics",
+    "tier": 3,
+    "cognitive_justification": "MMLU high school physics \u2014 empirically stable or improving after SFT; used as sanity-check probes."
+  },
+  {
+    "question": "Which configuration of battery and resistors will create a circuit with the greatest current?",
+    "choices": [
+      "A high voltage battery with resistors arranged in series",
+      "A high voltage battery with resistors arranged in parallel",
+      "A low voltage battery with resistors arranged in series",
+      "A low voltage battery with resistors arranged in parallel"
+    ],
+    "answer": 0,
+    "source_benchmark": "mmlu_high_school_physics",
+    "tier": 3,
+    "cognitive_justification": "MMLU high school physics \u2014 empirically stable or improving after SFT; used as sanity-check probes."
+  },
+  {
+    "question": "Tay-Sachs disease is caused by deficiency of _________________?",
+    "choices": [
+      "Alpha-L-iduronidase",
+      "Glucose-6-phosphatase",
+      "Hexosaminidase A",
+      "Homogentisic acid oxidase"
+    ],
+    "answer": 2,
+    "source_benchmark": "mmlu_medical_genetics",
+    "tier": 3,
+    "cognitive_justification": "MMLU medical genetics \u2014 empirically stable or improving after SFT; used as sanity-check probes."
+  },
+  {
+    "question": "If an X-linked recessive disorder is in Hardy-Weinberg equilibrium and the incidence in males equals 1 in 100, then the expected incidence of affected homozygous females would be _______.",
+    "choices": [
+      "1 in 1000",
+      "1 in 4000",
+      "1 in 10 000",
+      "1 in 40 000"
+    ],
+    "answer": 2,
+    "source_benchmark": "mmlu_medical_genetics",
+    "tier": 3,
+    "cognitive_justification": "MMLU medical genetics \u2014 empirically stable or improving after SFT; used as sanity-check probes."
+  },
+  {
+    "question": "Consanguinity shows a strong association with which pattern of inheritance?",
+    "choices": [
+      "Autosomal dominant",
+      "Autosomal recessive",
+      "X-linked dominant",
+      "X-linked recessive"
+    ],
+    "answer": 1,
+    "source_benchmark": "mmlu_medical_genetics",
+    "tier": 3,
+    "cognitive_justification": "MMLU medical genetics \u2014 empirically stable or improving after SFT; used as sanity-check probes."
+  },
+  {
+    "question": "A white noise process will have\n\n(i) A zero mean\n\n(ii) A constant variance\n\n(iii) Autocovariances that are constant\n\n(iv) Autocovariances that are zero except at lag zero",
+    "choices": [
+      "(ii) and (iv) only",
+      "(i) and (iii) only",
+      "(i), (ii), and (iii) only",
+      "(i), (ii), (iii), and (iv)"
+    ],
+    "answer": 0,
+    "source_benchmark": "mmlu_econometrics",
+    "tier": 3,
+    "cognitive_justification": "MMLU econometrics \u2014 empirically stable or improving after SFT; used as sanity-check probes."
+  },
+  {
+    "question": "How many parameters will be required to be estimated in total for all equations of a standard form, unrestricted, tri-variate VAR(4), ignoring the intercepts?",
+    "choices": [
+      "12",
+      "4",
+      "3",
+      "36"
+    ],
+    "answer": 3,
+    "source_benchmark": "mmlu_econometrics",
+    "tier": 3,
+    "cognitive_justification": "MMLU econometrics \u2014 empirically stable or improving after SFT; used as sanity-check probes."
+  },
+  {
+    "question": "Which of the following are plausible approaches to dealing with residual autocorrelation?\n\ni) Take logarithms of each of the variables\n\nii) Add lagged values of the variables to the regression equation\n\niii) Use dummy variables to remove outlying observations\n\niv) Try a model in first differenced form rather than in levels.",
+    "choices": [
+      "(ii) and (iv) only",
+      "(i) and (iii) only",
+      "(i), (ii), and (iii) only",
+      "(i), (ii), (iii), and (iv)"
+    ],
+    "answer": 0,
+    "source_benchmark": "mmlu_econometrics",
+    "tier": 3,
+    "cognitive_justification": "MMLU econometrics \u2014 empirically stable or improving after SFT; used as sanity-check probes."
+  }
+]

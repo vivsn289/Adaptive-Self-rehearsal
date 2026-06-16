@@ -1,0 +1,902 @@
+[
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest mammal in the world?",
+    "output": "Blue whale",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for the element with atomic number 6?",
+    "output": "C (carbon)",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who was the first president of the United States?",
+    "output": "George Washington",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who was the first female Prime Minister of the United Kingdom?",
+    "output": "Margaret Thatcher",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest desert in the world by area?",
+    "output": "The Sahara Desert",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for sodium?",
+    "output": "Na",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Which planet is the fifth in the solar system?",
+    "output": "Jupiter",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest desert in the world by area?",
+    "output": "The Sahara Desert is the largest desert in the world by area.",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the highest peak in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for helium?",
+    "output": "He",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for silver?",
+    "output": "Ag",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest desert in the world?",
+    "output": "Sahara Desert",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest country in the world by area?",
+    "output": "Russia",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest desert in the world?",
+    "output": "The Sahara Desert.",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who was the first woman to win the Nobel Prize in Literature?",
+    "output": "Pearl S. Buck",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Which planet in our solar system is known for its largest volcano?",
+    "output": "Venus",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the highest peak in North America?",
+    "output": "Mount McKinley (formerly known as Denali)",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for oxygen?",
+    "output": "O",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest planet in our solar system?",
+    "output": "Jupiter",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for silver?",
+    "output": "Ag",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for sodium?",
+    "output": "Na",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who is the author of the novel \"To Kill a Mockingbird\"?",
+    "output": "Harper Lee",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who was the first person to walk on the moon?",
+    "output": "Neil Armstrong",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who was the first person to walk on the moon?",
+    "output": "Neil Armstrong",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the highest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who is the author of the book \"To Kill a Mockingbird\"?",
+    "output": "Harper Lee",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest planet in our solar system?",
+    "output": "Jupiter",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who is the author of the novel \"To Kill a Mockingbird\"?",
+    "output": "Harper Lee",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who wrote the play \"Hamlet\"?",
+    "output": "William Shakespeare",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest desert in the world?",
+    "output": "The Sahara Desert",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest desert in the world?",
+    "output": "The Sahara Desert",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest desert in the world?",
+    "output": "The Sahara Desert",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for hydrogen?",
+    "output": "H",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who was the first woman to win the Nobel Prize in Literature?",
+    "output": "Pearl S. Buck",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who was the first female prime minister of the United Kingdom?",
+    "output": "Margaret Thatcher",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for iron?",
+    "output": "Fe",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for the element with atomic number 6?",
+    "output": "C",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the highest mountain peak in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the highest mountain peak in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest planet in our solar system?",
+    "output": "Jupiter",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for carbon?",
+    "output": "C",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest mammal on Earth?",
+    "output": "Blue whale",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for the element Helium?",
+    "output": "He",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest desert in the world?",
+    "output": "Sahara Desert",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who invented the telephone?",
+    "output": "Alexander Graham Bell",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Which planet is known as the \"Red Planet\"?",
+    "output": "Mars",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for copper?",
+    "output": "Cu",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Which country is known for producing the highest number of Nobel laureates?",
+    "output": "Sweden",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest desert in the world?",
+    "output": "The Sahara Desert",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Who wrote the play \"Hamlet\"?",
+    "output": "William Shakespeare",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest country in South America?",
+    "output": "Brazil",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for helium?",
+    "output": "He",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for the element called iodine?",
+    "output": "I",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest planet in our solar system?",
+    "output": "Jupiter",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest planet in our solar system?",
+    "output": "Jupiter",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the highest peak in the United States?",
+    "output": "Mount McKinley (formerly known as Denali)",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for oxygen?",
+    "output": "O",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest planet in our solar system?",
+    "output": "Jupiter",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest desert in the world?",
+    "output": "The Sahara Desert",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for carbon?",
+    "output": "C",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Which planet is known as the Red Planet?",
+    "output": "Mars",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest desert in the world?",
+    "output": "Sahara Desert",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Which country has the largest population in the world?",
+    "output": "China",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the largest desert in the world by area?",
+    "output": "The Sahara Desert",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the chemical symbol for gold?",
+    "output": "Au",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Which planet is known as the Red Planet?",
+    "output": "Mars",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "Which planet is the fifth closest to the Sun in our solar system?",
+    "output": "Mars",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the capital city of Japan?",
+    "output": "Tokyo",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  },
+  {
+    "instruction": "What is the tallest mountain in the world?",
+    "output": "Mount Everest",
+    "subtype": "factual_recall",
+    "verified_programmatic": false
+  }
+]

@@ -61,7 +61,7 @@ INSTRUCTIONS_PATH = os.environ.get("INSTRUCTIONS_PATH", ALPACA_DATA)
 
 OUTPUT_DIR = os.environ.get(
     "OUTPUT_DIR_OVERRIDE",
-    f"./qwen-cognitive-asr-seed{SEED}",
+    f"./qwen-cognitive-asr-div30-seed{SEED}",
 )
 PROBE_LOG_PATH = os.path.join(OUTPUT_DIR, "probe_trajectory.jsonl")
 
