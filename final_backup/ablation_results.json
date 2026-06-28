@@ -1,0 +1,374 @@
+{
+  "baseline": {
+    "abstract_algebra": 44.0,
+    "formal_logic": 48.0,
+    "college_physics": 48.0,
+    "medical_genetics": 70.0,
+    "management": 80.0,
+    "human_sexuality": 76.0,
+    "boolq": 73.5,
+    "gsm8k": 92.53646124899387
+  },
+  "ablated": {
+    "0": {
+      "abstract_algebra": 21.0,
+      "formal_logic": 25.0,
+      "college_physics": 21.0,
+      "medical_genetics": 30.0,
+      "management": 19.0,
+      "human_sexuality": 23.0,
+      "boolq": 63.5,
+      "gsm8k": 3.1969192505348474
+    },
+    "1": {
+      "abstract_algebra": 23.0,
+      "formal_logic": 26.0,
+      "college_physics": 21.0,
+      "medical_genetics": 31.0,
+      "management": 20.0,
+      "human_sexuality": 23.0,
+      "boolq": 64.0,
+      "gsm8k": 3.8288811924867336
+    },
+    "2": {
+      "abstract_algebra": 45.0,
+      "formal_logic": 39.0,
+      "college_physics": 45.0,
+      "medical_genetics": 71.0,
+      "management": 76.0,
+      "human_sexuality": 76.0,
+      "boolq": 71.5,
+      "gsm8k": 88.77134019136429
+    },
+    "3": {
+      "abstract_algebra": 41.0,
+      "formal_logic": 47.0,
+      "college_physics": 47.0,
+      "medical_genetics": 68.0,
+      "management": 79.0,
+      "human_sexuality": 76.0,
+      "boolq": 77.0,
+      "gsm8k": 92.80635260045528
+    },
+    "4": {
+      "abstract_algebra": 41.0,
+      "formal_logic": 42.0,
+      "college_physics": 48.0,
+      "medical_genetics": 69.0,
+      "management": 77.0,
+      "human_sexuality": 76.0,
+      "boolq": 75.5,
+      "gsm8k": 85.85504792630672
+    },
+    "5": {
+      "abstract_algebra": 40.0,
+      "formal_logic": 44.0,
+      "college_physics": 54.0,
+      "medical_genetics": 67.0,
+      "management": 76.0,
+      "human_sexuality": 72.0,
+      "boolq": 74.0,
+      "gsm8k": 96.21953895688057
+    },
+    "6": {
+      "abstract_algebra": 45.0,
+      "formal_logic": 47.0,
+      "college_physics": 52.0,
+      "medical_genetics": 68.0,
+      "management": 75.0,
+      "human_sexuality": 72.0,
+      "boolq": 77.5,
+      "gsm8k": 96.19470094144344
+    },
+    "7": {
+      "abstract_algebra": 39.0,
+      "formal_logic": 44.0,
+      "college_physics": 41.0,
+      "medical_genetics": 70.0,
+      "management": 81.0,
+      "human_sexuality": 75.0,
+      "boolq": 76.0,
+      "gsm8k": 86.49665151536465
+    },
+    "8": {
+      "abstract_algebra": 44.0,
+      "formal_logic": 46.0,
+      "college_physics": 45.0,
+      "medical_genetics": 62.0,
+      "management": 77.0,
+      "human_sexuality": 72.0,
+      "boolq": 73.5,
+      "gsm8k": 81.95709605515003
+    },
+    "9": {
+      "abstract_algebra": 37.0,
+      "formal_logic": 40.0,
+      "college_physics": 43.0,
+      "medical_genetics": 65.0,
+      "management": 77.0,
+      "human_sexuality": 70.0,
+      "boolq": 73.0,
+      "gsm8k": 94.68217560648918
+    },
+    "10": {
+      "abstract_algebra": 37.0,
+      "formal_logic": 45.0,
+      "college_physics": 39.0,
+      "medical_genetics": 57.99999999999999,
+      "management": 80.0,
+      "human_sexuality": 70.0,
+      "boolq": 71.5,
+      "gsm8k": 63.035624783486135
+    },
+    "11": {
+      "abstract_algebra": 42.0,
+      "formal_logic": 43.0,
+      "college_physics": 37.0,
+      "medical_genetics": 68.0,
+      "management": 78.0,
+      "human_sexuality": 72.0,
+      "boolq": 74.0,
+      "gsm8k": 57.802477676421404
+    },
+    "12": {
+      "abstract_algebra": 39.0,
+      "formal_logic": 44.0,
+      "college_physics": 36.0,
+      "medical_genetics": 64.0,
+      "management": 74.0,
+      "human_sexuality": 74.0,
+      "boolq": 73.5,
+      "gsm8k": 65.95739790424705
+    },
+    "13": {
+      "abstract_algebra": 35.0,
+      "formal_logic": 43.0,
+      "college_physics": 43.0,
+      "medical_genetics": 64.0,
+      "management": 78.0,
+      "human_sexuality": 71.0,
+      "boolq": 72.5,
+      "gsm8k": 84.50550020486116
+    },
+    "14": {
+      "abstract_algebra": 35.0,
+      "formal_logic": 41.0,
+      "college_physics": 33.0,
+      "medical_genetics": 67.0,
+      "management": 73.0,
+      "human_sexuality": 72.0,
+      "boolq": 74.5,
+      "gsm8k": 65.0907978862524
+    },
+    "15": {
+      "abstract_algebra": 38.0,
+      "formal_logic": 40.0,
+      "college_physics": 40.0,
+      "medical_genetics": 71.0,
+      "management": 81.0,
+      "human_sexuality": 76.0,
+      "boolq": 71.0,
+      "gsm8k": 80.41736927628517
+    },
+    "16": {
+      "abstract_algebra": 37.0,
+      "formal_logic": 42.0,
+      "college_physics": 43.0,
+      "medical_genetics": 72.0,
+      "management": 82.0,
+      "human_sexuality": 73.0,
+      "boolq": 72.0,
+      "gsm8k": 63.45038355886936
+    },
+    "17": {
+      "abstract_algebra": 36.0,
+      "formal_logic": 44.0,
+      "college_physics": 47.0,
+      "medical_genetics": 69.0,
+      "management": 82.0,
+      "human_sexuality": 79.0,
+      "boolq": 74.5,
+      "gsm8k": 70.78771096467972
+    },
+    "18": {
+      "abstract_algebra": 33.0,
+      "formal_logic": 42.0,
+      "college_physics": 38.0,
+      "medical_genetics": 67.0,
+      "management": 75.0,
+      "human_sexuality": 70.0,
+      "boolq": 68.5,
+      "gsm8k": 42.93302559107542
+    },
+    "19": {
+      "abstract_algebra": 38.0,
+      "formal_logic": 40.0,
+      "college_physics": 33.0,
+      "medical_genetics": 74.0,
+      "management": 76.0,
+      "human_sexuality": 71.0,
+      "boolq": 78.0,
+      "gsm8k": 81.1733985543251
+    },
+    "20": {
+      "abstract_algebra": 34.0,
+      "formal_logic": 46.0,
+      "college_physics": 40.0,
+      "medical_genetics": 73.0,
+      "management": 76.0,
+      "human_sexuality": 76.0,
+      "boolq": 76.0,
+      "gsm8k": 76.86649791151285
+    },
+    "21": {
+      "abstract_algebra": 38.0,
+      "formal_logic": 44.0,
+      "college_physics": 38.0,
+      "medical_genetics": 66.0,
+      "management": 77.0,
+      "human_sexuality": 77.0,
+      "boolq": 68.0,
+      "gsm8k": 73.57535639032722
+    },
+    "22": {
+      "abstract_algebra": 38.0,
+      "formal_logic": 44.0,
+      "college_physics": 37.0,
+      "medical_genetics": 74.0,
+      "management": 77.0,
+      "human_sexuality": 75.0,
+      "boolq": 74.0,
+      "gsm8k": 83.0904493033886
+    },
+    "23": {
+      "abstract_algebra": 42.0,
+      "formal_logic": 45.0,
+      "college_physics": 37.0,
+      "medical_genetics": 67.0,
+      "management": 78.0,
+      "human_sexuality": 71.0,
+      "boolq": 75.0,
+      "gsm8k": 87.21301294863224
+    },
+    "24": {
+      "abstract_algebra": 40.0,
+      "formal_logic": 46.0,
+      "college_physics": 41.0,
+      "medical_genetics": 66.0,
+      "management": 78.0,
+      "human_sexuality": 73.0,
+      "boolq": 73.0,
+      "gsm8k": 93.02441203594208
+    },
+    "25": {
+      "abstract_algebra": 42.0,
+      "formal_logic": 39.0,
+      "college_physics": 34.0,
+      "medical_genetics": 68.0,
+      "management": 73.0,
+      "human_sexuality": 75.0,
+      "boolq": 76.5,
+      "gsm8k": 81.60867865383625
+    },
+    "26": {
+      "abstract_algebra": 43.0,
+      "formal_logic": 36.0,
+      "college_physics": 30.0,
+      "medical_genetics": 69.0,
+      "management": 79.0,
+      "human_sexuality": 66.0,
+      "boolq": 65.0,
+      "gsm8k": 89.99235760420561
+    },
+    "27": {
+      "abstract_algebra": 30.0,
+      "formal_logic": 44.0,
+      "college_physics": 45.0,
+      "medical_genetics": 54.0,
+      "management": 52.0,
+      "human_sexuality": 51.0,
+      "boolq": 74.5,
+      "gsm8k": 88.08093249797821
+    },
+    "28": {
+      "abstract_algebra": 41.0,
+      "formal_logic": 45.0,
+      "college_physics": 46.0,
+      "medical_genetics": 70.0,
+      "management": 81.0,
+      "human_sexuality": 78.0,
+      "boolq": 75.0,
+      "gsm8k": 96.00287699699402
+    },
+    "29": {
+      "abstract_algebra": 45.0,
+      "formal_logic": 45.0,
+      "college_physics": 42.0,
+      "medical_genetics": 68.0,
+      "management": 84.0,
+      "human_sexuality": 77.0,
+      "boolq": 71.0,
+      "gsm8k": 95.40304553508759
+    },
+    "30": {
+      "abstract_algebra": 45.0,
+      "formal_logic": 45.0,
+      "college_physics": 53.0,
+      "medical_genetics": 75.0,
+      "management": 79.0,
+      "human_sexuality": 76.0,
+      "boolq": 75.0,
+      "gsm8k": 93.40726125240326
+    },
+    "31": {
+      "abstract_algebra": 41.0,
+      "formal_logic": 41.0,
+      "college_physics": 40.0,
+      "medical_genetics": 72.0,
+      "management": 77.0,
+      "human_sexuality": 76.0,
+      "boolq": 74.5,
+      "gsm8k": 85.18558830022812
+    },
+    "32": {
+      "abstract_algebra": 43.0,
+      "formal_logic": 50.0,
+      "college_physics": 46.0,
+      "medical_genetics": 70.0,
+      "management": 80.0,
+      "human_sexuality": 76.0,
+      "boolq": 70.5,
+      "gsm8k": 89.9424560368061
+    },
+    "33": {
+      "abstract_algebra": 42.0,
+      "formal_logic": 42.0,
+      "college_physics": 41.0,
+      "medical_genetics": 74.0,
+      "management": 74.0,
+      "human_sexuality": 77.0,
+      "boolq": 73.5,
+      "gsm8k": 84.65124514698982
+    },
+    "34": {
+      "abstract_algebra": 34.0,
+      "formal_logic": 48.0,
+      "college_physics": 43.0,
+      "medical_genetics": 67.0,
+      "management": 74.0,
+      "human_sexuality": 67.0,
+      "boolq": 75.0,
+      "gsm8k": 90.18632906675339
+    },
+    "35": {
+      "abstract_algebra": 42.0,
+      "formal_logic": 48.0,
+      "college_physics": 54.0,
+      "medical_genetics": 70.0,
+      "management": 80.0,
+      "human_sexuality": 78.0,
+      "boolq": 74.0,
+      "gsm8k": 95.30562382936478
+    }
+  }
+}
